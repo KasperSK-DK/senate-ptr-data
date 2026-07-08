@@ -99,8 +99,8 @@ def iter_filing_index(client: httpx.Client):
             href = href_match.group(1)
             yield {
                 "id": href.strip("/").split("/")[-1],
-                "first": first.strip().title(),
-                "last": last.strip().title(),
+                "first": first.strip(" ,").title(),
+                "last": last.strip(" ,").title(),
                 "filed": datetime.strptime(filed, "%m/%d/%Y").date().isoformat(),
                 "url": f"{BASE}{href}",
                 "paper": "/view/paper/" in href,
