@@ -1,0 +1,34 @@
+name: Scrape Senate PTRs
+
+on:
+  schedule:
+    - cron: "20 6 * * *" # daily, 06:20 UTC (Senate eFD updates on US business days)
+  workflow_dispatch:
+    inputs:
+      full:
+        description: "Re-walk the whole window instead of stopping at known filings"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest # US-based runner: efdsearch.senate.gov geo-blocks non-US
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: python scrape.py
+        env:
+          SCRAPE_FULL: ${{ inputs.full && '1' || '' }}
+      - name: Commit updated data
+        run: |
+          git config user.name "senate-scraper[bot]"
+          git config user.email "actions@github.com"
+          git add data/filings.json
+          git diff --cached --quiet || git commit -m "Update Senate PTR data ($(date -u +%F))"
+          git push
