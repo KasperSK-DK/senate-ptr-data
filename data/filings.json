@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-07-08T12:06:21.954273+00:00",
+ "generated_at": "2026-07-09T16:14:43.832100+00:00",
  "source": "efdsearch.senate.gov",
  "filings": [
+  {
+   "id": "5d9b1b8e-2ae1-442b-860c-e79b8a701dc6",
+   "first": "Sheldon",
+   "last": "Whitehouse",
+   "filed": "2026-07-08",
+   "url": "https://efdsearch.senate.gov/search/view/ptr/5d9b1b8e-2ae1-442b-860c-e79b8a701dc6/",
+   "paper": false,
+   "transactions": [
+    {
+     "date": "2026-06-24",
+     "owner": "Self",
+     "ticker": "AAPL",
+     "asset": "Apple Inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-06-24",
+     "owner": "Spouse",
+     "ticker": "AAPL",
+     "asset": "Apple Inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-06-25",
+     "owner": "Self",
+     "ticker": "CCI",
+     "asset": "Crown Castle Inc. Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-06-30",
+     "owner": "Self",
+     "ticker": "NVDA",
+     "asset": "NVIDIA Corporation - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-06-25",
+     "owner": "Self",
+     "ticker": "COHR",
+     "asset": "Coherent Corp. Common Stock",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-06-25",
+     "owner": "Self",
+     "ticker": "MU",
+     "asset": "Micron Technology, Inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    }
+   ]
+  },
   {
    "id": "4f4d76c6-52ab-4edb-884d-b6c43e7b1bbe",
    "first": "Shelley M",
