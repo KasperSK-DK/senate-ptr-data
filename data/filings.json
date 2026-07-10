@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-07-09T16:14:43.832100+00:00",
+ "generated_at": "2026-07-10T13:31:26.888006+00:00",
  "source": "efdsearch.senate.gov",
  "filings": [
+  {
+   "id": "a5fdbba4-9c67-4002-b931-1cd910ce590d",
+   "first": "John",
+   "last": "Fetterman",
+   "filed": "2026-07-09",
+   "url": "https://efdsearch.senate.gov/search/view/ptr/a5fdbba4-9c67-4002-b931-1cd910ce590d/",
+   "paper": false,
+   "transactions": [
+    {
+     "date": "2026-06-24",
+     "owner": "Child",
+     "ticker": "",
+     "asset": "Cheniere Energy Partners L P Note Rate/Coupon: 4.5% Matures: 2029-10-01",
+     "asset_type": "Corporate Bond",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-06-16",
+     "owner": "Child",
+     "ticker": "",
+     "asset": "NISOURCE INC NOTE Rate/Coupon: 6.95% Matures: 2054-11-30",
+     "asset_type": "Corporate Bond",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-06-16",
+     "owner": "Child",
+     "ticker": "",
+     "asset": "EVERSOURCE ENERGY SER A NOTE Rate/Coupon: 6.1% Matures: 2056-08-15",
+     "asset_type": "Corporate Bond",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    }
+   ]
+  },
   {
    "id": "5d9b1b8e-2ae1-442b-860c-e79b8a701dc6",
    "first": "Sheldon",
