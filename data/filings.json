@@ -1,7 +1,127 @@
 {
- "generated_at": "2026-07-13T13:51:44.664221+00:00",
+ "generated_at": "2026-07-14T11:48:38.831276+00:00",
  "source": "efdsearch.senate.gov",
  "filings": [
+  {
+   "id": "c52854ed-a778-483a-883c-0ba2bba17877",
+   "first": "John",
+   "last": "Boozman",
+   "filed": "2026-07-13",
+   "url": "https://efdsearch.senate.gov/search/view/ptr/c52854ed-a778-483a-883c-0ba2bba17877/",
+   "paper": false,
+   "transactions": [
+    {
+     "date": "2026-06-25",
+     "owner": "Joint",
+     "ticker": "TPYP",
+     "asset": "Tortoise North American Pipeline Fund",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-06-25",
+     "owner": "Joint",
+     "ticker": "FTGC",
+     "asset": "First Trust Global Tactical Commodity Strategy Fund",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-06-17",
+     "owner": "Joint",
+     "ticker": "IEF",
+     "asset": "iShares 7-10 Year Treasury Bond ETF",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-06-12",
+     "owner": "Joint",
+     "ticker": "ATO",
+     "asset": "Atmos Energy Corporation Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-06-04",
+     "owner": "Joint",
+     "ticker": "BSX",
+     "asset": "Boston Scientific Corporation Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    }
+   ]
+  },
+  {
+   "id": "9c0b720d-7e27-4b02-8cf5-a85ba88c9543",
+   "first": "John",
+   "last": "Boozman",
+   "filed": "2026-07-13",
+   "url": "https://efdsearch.senate.gov/search/view/ptr/9c0b720d-7e27-4b02-8cf5-a85ba88c9543/",
+   "paper": false,
+   "transactions": [
+    {
+     "date": "2026-06-25",
+     "owner": "Joint",
+     "ticker": "IGV",
+     "asset": "iShares Expanded Tech-Software Sector ETF",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-06-25",
+     "owner": "Joint",
+     "ticker": "PALL",
+     "asset": "abrdn Physical Palladium Shares ETF",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-06-17",
+     "owner": "Joint",
+     "ticker": "",
+     "asset": "SCHP - Schwab U.S. TIPS ETF",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-06-12",
+     "owner": "Joint",
+     "ticker": "",
+     "asset": "CEG - Constellation Energy Corporation - Common Stock When-Issued",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-06-04",
+     "owner": "Joint",
+     "ticker": "UNH",
+     "asset": "UnitedHealth Group Incorporated Common Stock (DE)",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    }
+   ]
+  },
   {
    "id": "a5fdbba4-9c67-4002-b931-1cd910ce590d",
    "first": "John",
