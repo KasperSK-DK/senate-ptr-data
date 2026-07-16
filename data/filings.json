@@ -1,7 +1,127 @@
 {
- "generated_at": "2026-07-15T11:55:00.796214+00:00",
+ "generated_at": "2026-07-16T12:01:44.171763+00:00",
  "source": "efdsearch.senate.gov",
  "filings": [
+  {
+   "id": "392ac3e5-07f6-4f8c-840f-84e9066ffb29",
+   "first": "Thomas H",
+   "last": "Tuberville",
+   "filed": "2026-07-16",
+   "url": "https://efdsearch.senate.gov/search/view/ptr/392ac3e5-07f6-4f8c-840f-84e9066ffb29/",
+   "paper": false,
+   "transactions": [
+    {
+     "date": "2026-06-09",
+     "owner": "Self",
+     "ticker": "WAB",
+     "asset": "Westinghouse Air Brake Technologies Corporation Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-06-08",
+     "owner": "Joint",
+     "ticker": "",
+     "asset": "ACN - Accenture plc Class A Ordinary Shares (Ireland)",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-06-08",
+     "owner": "Joint",
+     "ticker": "AWK",
+     "asset": "American Water Works Company, Inc. Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-06-08",
+     "owner": "Joint",
+     "ticker": "CSX",
+     "asset": "CSX Corporation - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-06-08",
+     "owner": "Joint",
+     "ticker": "DUK",
+     "asset": "Duke Energy Corporation (Holding Company) Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-06-08",
+     "owner": "Joint",
+     "ticker": "LMT",
+     "asset": "Lockheed Martin Corporation Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-06-08",
+     "owner": "Joint",
+     "ticker": "MA",
+     "asset": "Mastercard Incorporated Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-06-08",
+     "owner": "Joint",
+     "ticker": "NEE",
+     "asset": "NextEra Energy, Inc. Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-06-08",
+     "owner": "Joint",
+     "ticker": "PFE",
+     "asset": "Pfizer, Inc. Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-06-08",
+     "owner": "Joint",
+     "ticker": "PG",
+     "asset": "Procter & Gamble Company (The) Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-06-08",
+     "owner": "Joint",
+     "ticker": "TSCO",
+     "asset": "Tractor Supply Company - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    }
+   ]
+  },
   {
    "id": "c52854ed-a778-483a-883c-0ba2bba17877",
    "first": "John",
