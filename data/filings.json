@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-07-24T12:01:32.850047+00:00",
+ "generated_at": "2026-07-25T10:56:07.086614+00:00",
  "source": "efdsearch.senate.gov",
  "filings": [
+  {
+   "id": "bccf83ce-dd72-4ab6-8564-b3bbb1d2ee55",
+   "first": "Bernie",
+   "last": "Moreno",
+   "filed": "2026-07-24",
+   "url": "https://efdsearch.senate.gov/search/view/ptr/bccf83ce-dd72-4ab6-8564-b3bbb1d2ee55/",
+   "paper": false,
+   "transactions": [
+    {
+     "date": "2026-06-24",
+     "owner": "Self",
+     "ticker": "",
+     "asset": "BofA Finance LLC Trigger Autocallable Contingent Yield Notes Company: Bank of America Corporation\n                                                    \n                                                        \u00a0(Charlotte, NC) Description: Equity Index-Linked Note",
+     "asset_type": "Other",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "Linked to the Least Performing of the Invesco QQQ TrustSM, Series 1 and the iShares Russell 2000 Value ETF"
+    },
+    {
+     "date": "2026-06-22",
+     "owner": "Self",
+     "ticker": "",
+     "asset": "Canadian Imperial Bank of Commerce Trigger Autocallable Contingent Yield Notes Company: Canadian Imperial Bank of Commerce\n                                                    \n                                                        \u00a0(Toronto, Ontario) Description: Equity Index-Linked Note",
+     "asset_type": "Other",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "Linked to the Least Performing of the S&P 500 Index and the EURO STOXX 50 Index"
+    }
+   ]
+  },
   {
    "id": "fda235b3-bad7-4637-8fa1-053f354d929c",
    "first": "Alan",
