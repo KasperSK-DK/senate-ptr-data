@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-08-04T09:09:41.881076+00:00",
+ "generated_at": "2026-08-05T09:06:59.676468+00:00",
  "source": "efdsearch.senate.gov",
  "filings": [
+  {
+   "id": "60c01547-0cf9-46c6-9ce6-f0102f5941f6",
+   "first": "Shelley M",
+   "last": "Capito",
+   "filed": "2026-08-04",
+   "url": "https://efdsearch.senate.gov/search/view/ptr/60c01547-0cf9-46c6-9ce6-f0102f5941f6/",
+   "paper": false,
+   "transactions": [
+    {
+     "date": "2026-07-21",
+     "owner": "Spouse",
+     "ticker": "MSFT",
+     "asset": "Microsoft Corporation - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-07-21",
+     "owner": "Spouse",
+     "ticker": "AAPL",
+     "asset": "Apple Inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-07-21",
+     "owner": "Spouse",
+     "ticker": "INTC",
+     "asset": "Intel Corporation - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-07-21",
+     "owner": "Spouse",
+     "ticker": "KO",
+     "asset": "Coca-Cola Company (The) Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-07-21",
+     "owner": "Spouse",
+     "ticker": "CSCO",
+     "asset": "Cisco Systems, Inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    }
+   ]
+  },
   {
    "id": "d20def77-73a7-44e0-8be0-b9b05492deed",
    "first": "Rick",
