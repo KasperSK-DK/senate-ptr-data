@@ -1,7 +1,1867 @@
 {
- "generated_at": "2026-08-05T09:06:59.676468+00:00",
+ "generated_at": "2026-08-06T09:07:43.115205+00:00",
  "source": "efdsearch.senate.gov",
  "filings": [
+  {
+   "id": "d1afafd0-a78f-44ef-ae47-da99dfb01317",
+   "first": "Thomas H",
+   "last": "Tuberville",
+   "filed": "2026-08-05",
+   "url": "https://efdsearch.senate.gov/search/view/ptr/d1afafd0-a78f-44ef-ae47-da99dfb01317/",
+   "paper": false,
+   "transactions": [
+    {
+     "date": "2025-01-10",
+     "owner": "Joint",
+     "ticker": "TSCO",
+     "asset": "Tractor Supply Company",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2025-01-10",
+     "owner": "Joint",
+     "ticker": "CARR",
+     "asset": "Carrier Global Corp",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2025-01-10",
+     "owner": "Joint",
+     "ticker": "TXN",
+     "asset": "Texas Instruments Incorporated - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2025-01-10",
+     "owner": "Joint",
+     "ticker": "DEO",
+     "asset": "Diageo Plc ADR",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2025-01-10",
+     "owner": "Joint",
+     "ticker": "MSFT",
+     "asset": "Microsoft Corp",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2025-01-10",
+     "owner": "Joint",
+     "ticker": "AAPL",
+     "asset": "Apple Inc",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    }
+   ]
+  },
+  {
+   "id": "cce52b36-d00c-4710-a8ee-e84893fb4be1",
+   "first": "Thomas H",
+   "last": "Tuberville",
+   "filed": "2026-08-05",
+   "url": "https://efdsearch.senate.gov/search/view/ptr/cce52b36-d00c-4710-a8ee-e84893fb4be1/",
+   "paper": false,
+   "transactions": [
+    {
+     "date": "2024-10-29",
+     "owner": "Joint",
+     "ticker": "ADBE",
+     "asset": "Adobe Inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-10-29",
+     "owner": "Joint",
+     "ticker": "AAPL",
+     "asset": "Apple Inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-10-29",
+     "owner": "Joint",
+     "ticker": "CTVA",
+     "asset": "Corteva, Inc. Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-10-29",
+     "owner": "Joint",
+     "ticker": "HON",
+     "asset": "Honeywell International Inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-10-29",
+     "owner": "Joint",
+     "ticker": "JNJ",
+     "asset": "Johnson & Johnson Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-10-29",
+     "owner": "Joint",
+     "ticker": "KMB",
+     "asset": "Kimberly-Clark Corporation Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-10-29",
+     "owner": "Joint",
+     "ticker": "MCD",
+     "asset": "McDonald's Corporation Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-10-29",
+     "owner": "Joint",
+     "ticker": "MSFT",
+     "asset": "Microsoft Corporation - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-10-29",
+     "owner": "Joint",
+     "ticker": "",
+     "asset": "Nestle ADR",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-10-29",
+     "owner": "Joint",
+     "ticker": "",
+     "asset": "Otis Worldwide Corporation Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-10-29",
+     "owner": "Joint",
+     "ticker": "OC",
+     "asset": "Owens Corning Inc Common Stock New",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-10-29",
+     "owner": "Joint",
+     "ticker": "TRV",
+     "asset": "The Travelers Companies, Inc. Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    }
+   ]
+  },
+  {
+   "id": "57cf1745-e3dd-4afd-8685-228153848631",
+   "first": "Thomas H",
+   "last": "Tuberville",
+   "filed": "2026-08-05",
+   "url": "https://efdsearch.senate.gov/search/view/ptr/57cf1745-e3dd-4afd-8685-228153848631/",
+   "paper": false,
+   "transactions": [
+    {
+     "date": "2025-12-17",
+     "owner": "Self",
+     "ticker": "XLU",
+     "asset": "SPDR Select Sector Fund - Utilities",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2025-12-17",
+     "owner": "Self",
+     "ticker": "XLP",
+     "asset": "SPDR Select Sector Fund - Consumer Staples",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2025-12-17",
+     "owner": "Self",
+     "ticker": "XLV",
+     "asset": "SPDR Select Sector Fund - Health Care",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2025-12-17",
+     "owner": "Self",
+     "ticker": "AAPL",
+     "asset": "Apple Inc",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$50,001 - $100,000",
+     "comment": "--"
+    },
+    {
+     "date": "2025-12-17",
+     "owner": "Self",
+     "ticker": "GOOGL",
+     "asset": "Alphabet Cl A",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    }
+   ]
+  },
+  {
+   "id": "548cacbf-7cf2-42cb-9f23-71250938caae",
+   "first": "Thomas H",
+   "last": "Tuberville",
+   "filed": "2026-08-05",
+   "url": "https://efdsearch.senate.gov/search/view/ptr/548cacbf-7cf2-42cb-9f23-71250938caae/",
+   "paper": false,
+   "transactions": [
+    {
+     "date": "2024-03-21",
+     "owner": "Joint",
+     "ticker": "WBA",
+     "asset": "Walgreens Boots Alliance, Inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-03-21",
+     "owner": "Joint",
+     "ticker": "PARA",
+     "asset": "Paramount Global - Class B Common Stock",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-03-21",
+     "owner": "Joint",
+     "ticker": "",
+     "asset": "ROLLS-ROYCE HOLDINGS PLC SPONSORED ADR",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-03-21",
+     "owner": "Joint",
+     "ticker": "",
+     "asset": "ROLLS-ROYCE HOLDINGS PLC SPONSORED ADR",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-03-21",
+     "owner": "Joint",
+     "ticker": "HUMA",
+     "asset": "Humacyte Inc",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-03-21",
+     "owner": "Joint",
+     "ticker": "HUMA",
+     "asset": "Humacyte, Inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-03-21",
+     "owner": "Joint",
+     "ticker": "HUMA",
+     "asset": "Humacyte, Inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-03-13",
+     "owner": "Joint",
+     "ticker": "QCOM",
+     "asset": "QUALCOMM Incorporated - Common Stock Option Type: Put Strike price: $155.00 Expires: 12/20/2024",
+     "asset_type": "Stock Option",
+     "type": "Sale (Full)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-03-13",
+     "owner": "Joint",
+     "ticker": "ADBE",
+     "asset": "Adobe Systems Inc Option Type: Put Strike price: $500.00 Expires: 12/20/2024",
+     "asset_type": "Stock Option",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-03-13",
+     "owner": "Joint",
+     "ticker": "ADBE",
+     "asset": "Adobe Systems Inc Option Type: Put Strike price: $500.00 Expires: 12/20/2024",
+     "asset_type": "Stock Option",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-03-13",
+     "owner": "Joint",
+     "ticker": "ADBE",
+     "asset": "Adobe Systems Inc Option Type: Put Strike price: $500.00 Expires: 12/20/2024",
+     "asset_type": "Stock Option",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-03-13",
+     "owner": "Joint",
+     "ticker": "ADBE",
+     "asset": "Adobe Systems Inc Option Type: Put Strike price: $500.00 Expires: 12/20/2024",
+     "asset_type": "Stock Option",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-03-08",
+     "owner": "Joint",
+     "ticker": "AMAT",
+     "asset": "Applied Materials, Inc. - Common Stock Option Type: Put Strike price: $175.00 Expires: 01/17/2025",
+     "asset_type": "Stock Option",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-03-12",
+     "owner": "Self",
+     "ticker": "",
+     "asset": "FEDERAL HOME LN MTG CORP MTN Rate/Coupon: 5.375% Matures: 02/08/2027",
+     "asset_type": "Corporate Bond",
+     "type": "Purchase",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-03-12",
+     "owner": "Self",
+     "ticker": "AAPL",
+     "asset": "Apple Inc",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-03-12",
+     "owner": "Joint",
+     "ticker": "ACN",
+     "asset": "Accenture Plc",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-03-12",
+     "owner": "Joint",
+     "ticker": "CSX",
+     "asset": "CSX Corporation - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-03-12",
+     "owner": "Joint",
+     "ticker": "JPM",
+     "asset": "JP Morgan Chase & Co. Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-03-12",
+     "owner": "Joint",
+     "ticker": "TXN",
+     "asset": "Texas Instruments Incorporated - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    }
+   ]
+  },
+  {
+   "id": "2b076d77-6bc1-4b67-8be9-8f45a787479f",
+   "first": "Thomas H",
+   "last": "Tuberville",
+   "filed": "2026-08-05",
+   "url": "https://efdsearch.senate.gov/search/view/ptr/2b076d77-6bc1-4b67-8be9-8f45a787479f/",
+   "paper": false,
+   "transactions": [
+    {
+     "date": "2024-10-29",
+     "owner": "Joint",
+     "ticker": "ADBE",
+     "asset": "Adobe Inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-10-29",
+     "owner": "Joint",
+     "ticker": "AAPL",
+     "asset": "Apple Inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-10-29",
+     "owner": "Joint",
+     "ticker": "CTVA",
+     "asset": "Corteva, Inc. Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-10-29",
+     "owner": "Joint",
+     "ticker": "HON",
+     "asset": "Honeywell International Inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-10-29",
+     "owner": "Joint",
+     "ticker": "JNJ",
+     "asset": "Johnson & Johnson Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-10-29",
+     "owner": "Joint",
+     "ticker": "KMB",
+     "asset": "Kimberly-Clark Corporation Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-10-29",
+     "owner": "Joint",
+     "ticker": "MCD",
+     "asset": "McDonald's Corporation Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-10-29",
+     "owner": "Joint",
+     "ticker": "MSFT",
+     "asset": "Microsoft Corporation - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-10-29",
+     "owner": "Joint",
+     "ticker": "",
+     "asset": "Nestle ADR",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-10-29",
+     "owner": "Joint",
+     "ticker": "",
+     "asset": "Otis Worldwide Corporation Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-10-29",
+     "owner": "Joint",
+     "ticker": "OC",
+     "asset": "Owens Corning Inc Common Stock New",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-10-29",
+     "owner": "Joint",
+     "ticker": "TRV",
+     "asset": "The Travelers Companies, Inc. Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    }
+   ]
+  },
+  {
+   "id": "2758f09a-fda9-4fb4-a465-270173a8125d",
+   "first": "Thomas H",
+   "last": "Tuberville",
+   "filed": "2026-08-05",
+   "url": "https://efdsearch.senate.gov/search/view/ptr/2758f09a-fda9-4fb4-a465-270173a8125d/",
+   "paper": false,
+   "transactions": [
+    {
+     "date": "2024-08-26",
+     "owner": "Self",
+     "ticker": "AAPL",
+     "asset": "Apple Inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-08-26",
+     "owner": "Joint",
+     "ticker": "MDT",
+     "asset": "Medtronic plc. Ordinary Shares",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-08-26",
+     "owner": "Joint",
+     "ticker": "CVS",
+     "asset": "CVS Health Corporation Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-08-26",
+     "owner": "Joint",
+     "ticker": "UPS",
+     "asset": "United Parcel Service, Inc. Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-08-26",
+     "owner": "Self",
+     "ticker": "EIBLX",
+     "asset": "Eaton Vance Floating Rate Fund Insti Share Company: EATON VANCE FLOATING RATE CLASS I",
+     "asset_type": "Other",
+     "type": "Sale (Full)",
+     "amount": "$50,001 - $100,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-08-26",
+     "owner": "Self",
+     "ticker": "ABNFX",
+     "asset": "The Bond Fd of America Class F-2 Shares Company: AMERICAN BOND FUND OF AMERICA CL F2",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$50,001 - $100,000",
+     "comment": "--"
+    }
+   ]
+  },
+  {
+   "id": "1a5e6752-653a-4b11-82b6-efd51d466bb6",
+   "first": "Thomas H",
+   "last": "Tuberville",
+   "filed": "2026-08-05",
+   "url": "https://efdsearch.senate.gov/search/view/ptr/1a5e6752-653a-4b11-82b6-efd51d466bb6/",
+   "paper": false,
+   "transactions": [
+    {
+     "date": "2025-10-07",
+     "owner": "Joint",
+     "ticker": "PEP",
+     "asset": "Pepsico Inc",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2025-10-07",
+     "owner": "Joint",
+     "ticker": "OC",
+     "asset": "Owens Corning Inc",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2025-10-07",
+     "owner": "Joint",
+     "ticker": "MSFT",
+     "asset": "Microsoft Corp",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2025-10-07",
+     "owner": "Joint",
+     "ticker": "AAPL",
+     "asset": "Apple Inc",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2025-10-07",
+     "owner": "Joint",
+     "ticker": "GOOGL",
+     "asset": "Alphabet Inc. - Class A Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2025-10-07",
+     "owner": "Joint",
+     "ticker": "ORCL",
+     "asset": "Oracle Corporation Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2025-10-07",
+     "owner": "Joint",
+     "ticker": "",
+     "asset": "BIRMINGHAM ALA GO WTS SER. 2018 B Rate/Coupon: 5.0% Matures: 12/01/2043",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Full)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    }
+   ]
+  },
+  {
+   "id": "0a25588d-a3f8-4ed6-971a-706097f78e3a",
+   "first": "Thomas H",
+   "last": "Tuberville",
+   "filed": "2026-08-05",
+   "url": "https://efdsearch.senate.gov/search/view/ptr/0a25588d-a3f8-4ed6-971a-706097f78e3a/",
+   "paper": false,
+   "transactions": [
+    {
+     "date": "2024-05-07",
+     "owner": "Joint",
+     "ticker": "ARKK",
+     "asset": "Ark Innovation ETF Option Type: Call Strike price: $51.00 Expires: 12/20/2024",
+     "asset_type": "Stock Option",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-10",
+     "owner": "Joint",
+     "ticker": "ARKK",
+     "asset": "Ark Innovation ETF Option Type: Put Strike price: $45.00 Expires: 09/20/2024",
+     "asset_type": "Stock Option",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-08",
+     "owner": "Joint",
+     "ticker": "XBI",
+     "asset": "S&P Biotech SPDR Option Type: Call Strike price: $100.00 Expires: 10/18/2024",
+     "asset_type": "Stock Option",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-08",
+     "owner": "Joint",
+     "ticker": "XBI",
+     "asset": "S&P Biotech SPDR Option Type: Put Strike price: $90.00 Expires: 10/18/2024",
+     "asset_type": "Stock Option",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-13",
+     "owner": "Joint",
+     "ticker": "INTC",
+     "asset": "Intel Corp",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-13",
+     "owner": "Joint",
+     "ticker": "INTC",
+     "asset": "Intel Corp",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-13",
+     "owner": "Joint",
+     "ticker": "CLF",
+     "asset": "Cleveland-Cliffs Inc",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-13",
+     "owner": "Joint",
+     "ticker": "CLF",
+     "asset": "Cleveland-Cliffs Inc",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-10",
+     "owner": "Joint",
+     "ticker": "CLF",
+     "asset": "Cleveland-Cliffs Inc Option Type: Call Strike price: $20.00 Expires: 07/19/2024",
+     "asset_type": "Stock Option",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-10",
+     "owner": "Joint",
+     "ticker": "CLF",
+     "asset": "Cleveland-Cliffs Inc Option Type: Call Strike price: $20.00 Expires: 01/17/2025",
+     "asset_type": "Stock Option",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-10",
+     "owner": "Joint",
+     "ticker": "CLF",
+     "asset": "Cleveland-Cliffs Inc Option Type: Put Strike price: $17.00 Expires: 01/17/2025",
+     "asset_type": "Stock Option",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-10",
+     "owner": "Joint",
+     "ticker": "GILD",
+     "asset": "Gilead Sciences Inc Option Type: Put Strike price: $70.00 Expires: 11/15/2024",
+     "asset_type": "Stock Option",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-10",
+     "owner": "Joint",
+     "ticker": "GILD",
+     "asset": "Gilead Sciences Inc Option Type: Put Strike price: $70.00 Expires: 11/15/2024",
+     "asset_type": "Stock Option",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-10",
+     "owner": "Joint",
+     "ticker": "GILD",
+     "asset": "Gilead Sciences Inc Option Type: Put Strike price: $70.00 Expires: 11/15/2024",
+     "asset_type": "Stock Option",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-10",
+     "owner": "Joint",
+     "ticker": "PARA",
+     "asset": "Paramount Global Cl B",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-10",
+     "owner": "Joint",
+     "ticker": "CLF",
+     "asset": "Cleveland-Cliffs Inc Option Type: Call Strike price: $17.00 Expires: 06/21/2024",
+     "asset_type": "Stock Option",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-10",
+     "owner": "Joint",
+     "ticker": "CLF",
+     "asset": "Cleveland-Cliffs Inc Option Type: Call Strike price: $17.00 Expires: 06/21/2024",
+     "asset_type": "Stock Option",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-10",
+     "owner": "Joint",
+     "ticker": "CLF",
+     "asset": "Cleveland-Cliffs Inc Option Type: Call Strike price: $17.00 Expires: 06/21/2024",
+     "asset_type": "Stock Option",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-10",
+     "owner": "Joint",
+     "ticker": "CLF",
+     "asset": "Cleveland-Cliffs Inc Option Type: Call Strike price: $17.00 Expires: 06/21/2024",
+     "asset_type": "Stock Option",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-10",
+     "owner": "Joint",
+     "ticker": "INTC",
+     "asset": "Intel Corporation - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-10",
+     "owner": "Joint",
+     "ticker": "CLF",
+     "asset": "Cleveland-Cliffs Inc",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-10",
+     "owner": "Joint",
+     "ticker": "CLF",
+     "asset": "Cleveland-Cliffs Inc",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-10",
+     "owner": "Joint",
+     "ticker": "CLF",
+     "asset": "Cleveland-Cliffs Inc",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$50,001 - $100,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-10",
+     "owner": "Joint",
+     "ticker": "CLF",
+     "asset": "Cleveland-Cliffs Inc",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$50,001 - $100,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-10",
+     "owner": "Joint",
+     "ticker": "CLF",
+     "asset": "Cleveland-Cliffs Inc",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-09",
+     "owner": "Joint",
+     "ticker": "KEY",
+     "asset": "Keycorp Option Type: Put Strike price: $15.00 Expires: 09/20/2024",
+     "asset_type": "Stock Option",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-09",
+     "owner": "Joint",
+     "ticker": "INTC",
+     "asset": "Intel Corporation - Common Stock",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$50,001 - $100,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-08",
+     "owner": "Joint",
+     "ticker": "GOLD",
+     "asset": "Barrick Gold Corp Option Type: Put Strike price: $17.00 Expires: 01/17/2025",
+     "asset_type": "Stock Option",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-08",
+     "owner": "Joint",
+     "ticker": "GOLD",
+     "asset": "Barrick Gold Corp Option Type: Put Strike price: $17.00 Expires: 01/17/2025",
+     "asset_type": "Stock Option",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-08",
+     "owner": "Joint",
+     "ticker": "ADBE",
+     "asset": "Adobe Systems Inc Option Type: Put Strike price: $500.00 Expires: 12/20/2024",
+     "asset_type": "Stock Option",
+     "type": "Purchase",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-08",
+     "owner": "Joint",
+     "ticker": "SWKS",
+     "asset": "Skyworks Solutions, Inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-08",
+     "owner": "Joint",
+     "ticker": "INTC",
+     "asset": "Intel Corporation - Common Stock",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-08",
+     "owner": "Joint",
+     "ticker": "GILD",
+     "asset": "Gilead Sciences, Inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-07",
+     "owner": "Joint",
+     "ticker": "FITB",
+     "asset": "Fifth Third Bancorp - Common Stock Option Type: Call Strike price: $30.00 Expires: 05/17/2024",
+     "asset_type": "Stock Option",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-07",
+     "owner": "Joint",
+     "ticker": "GOLD",
+     "asset": "Barrick Gold Corp Option Type: Call Strike price: $20.00 Expires: 01/17/2025",
+     "asset_type": "Stock Option",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-07",
+     "owner": "Joint",
+     "ticker": "CLF",
+     "asset": "Cleveland-Cliffs Inc Option Type: Call Strike price: $20.00 Expires: 06/21/2024",
+     "asset_type": "Stock Option",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-07",
+     "owner": "Joint",
+     "ticker": "CVX",
+     "asset": "Chevron Corporation Common Stock Option Type: Put Strike price: $145.00 Expires: 09/20/2024",
+     "asset_type": "Stock Option",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-07",
+     "owner": "Joint",
+     "ticker": "CLF",
+     "asset": "Cleveland-Cliffs Inc Option Type: Call Strike price: $20.00 Expires: 11/15/2024",
+     "asset_type": "Stock Option",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-07",
+     "owner": "Joint",
+     "ticker": "CCJ",
+     "asset": "Cameco Corporation Common Stock Option Type: Put Strike price: $45.00 Expires: 09/20/2024",
+     "asset_type": "Stock Option",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-07",
+     "owner": "Joint",
+     "ticker": "LSCC",
+     "asset": "Lattice Semiconductor Corporation - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-07",
+     "owner": "Joint",
+     "ticker": "INTC",
+     "asset": "Intel Corporation - Common Stock",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-07",
+     "owner": "Joint",
+     "ticker": "FITB",
+     "asset": "Fifth Third Bancorp - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-07",
+     "owner": "Joint",
+     "ticker": "GOLD",
+     "asset": "Barrick Gold Corp",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-07",
+     "owner": "Joint",
+     "ticker": "WMS",
+     "asset": "Advanced Drainage Systems, Inc. Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-03",
+     "owner": "Joint",
+     "ticker": "WAT",
+     "asset": "Waters Corporation Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-03",
+     "owner": "Joint",
+     "ticker": "V",
+     "asset": "Visa Inc.",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-03",
+     "owner": "Joint",
+     "ticker": "VRTX",
+     "asset": "Vertex Pharmaceuticals Incorporated - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-03",
+     "owner": "Joint",
+     "ticker": "VRSK",
+     "asset": "Verisk Analytics, Inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-03",
+     "owner": "Joint",
+     "ticker": "UI",
+     "asset": "Ubiquiti Inc. Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-03",
+     "owner": "Joint",
+     "ticker": "TER",
+     "asset": "Teradyne, Inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-03",
+     "owner": "Joint",
+     "ticker": "TEL",
+     "asset": "Te Connectivity Ltd",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-03",
+     "owner": "Joint",
+     "ticker": "SNPS",
+     "asset": "Synopsys, Inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-03",
+     "owner": "Joint",
+     "ticker": "SOLV",
+     "asset": "Solventum Corporation Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-03",
+     "owner": "Joint",
+     "ticker": "",
+     "asset": "ROLLS-ROYCE HOLDINGS PLC ADR",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-03",
+     "owner": "Joint",
+     "ticker": "",
+     "asset": "ROLLS-ROYCE HOLDINGS PLC ADR",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-03",
+     "owner": "Joint",
+     "ticker": "",
+     "asset": "ROLLS-ROYCE HOLDINGS PLC ADR",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-03",
+     "owner": "Joint",
+     "ticker": "RMD",
+     "asset": "ResMed Inc. Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-03",
+     "owner": "Joint",
+     "ticker": "RELX",
+     "asset": "Relx Plc ADR",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-03",
+     "owner": "Joint",
+     "ticker": "QLYS",
+     "asset": "Qualys, Inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-03",
+     "owner": "Joint",
+     "ticker": "PG",
+     "asset": "Procter & Gamble Company (The) Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-03",
+     "owner": "Joint",
+     "ticker": "PFE",
+     "asset": "Pfizer, Inc. Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-03",
+     "owner": "Joint",
+     "ticker": "PEP",
+     "asset": "PepsiCo, Inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-03",
+     "owner": "Joint",
+     "ticker": "PYPL",
+     "asset": "PayPal Holdings, Inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-03",
+     "owner": "Joint",
+     "ticker": "PAYX",
+     "asset": "Paychex, Inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-03",
+     "owner": "Joint",
+     "ticker": "ODFL",
+     "asset": "Old Dominion Freight Line, Inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-03",
+     "owner": "Joint",
+     "ticker": "NDSN",
+     "asset": "Nordson Corporation - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-03",
+     "owner": "Joint",
+     "ticker": "NXPI",
+     "asset": "NXP Semiconductors N.V. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-03",
+     "owner": "Joint",
+     "ticker": "NFLX",
+     "asset": "Netflix, Inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-03",
+     "owner": "Joint",
+     "ticker": "MSI",
+     "asset": "Motorola Solutions, Inc. Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-03",
+     "owner": "Joint",
+     "ticker": "MCO",
+     "asset": "Moody's Corporation Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-03",
+     "owner": "Joint",
+     "ticker": "MPWR",
+     "asset": "Monolithic Power Systems, Inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-03",
+     "owner": "Joint",
+     "ticker": "MA",
+     "asset": "Mastercard Incorporated Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-03",
+     "owner": "Joint",
+     "ticker": "LULU",
+     "asset": "lululemon athletica inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-03",
+     "owner": "Joint",
+     "ticker": "KLAC",
+     "asset": "KLA Corporation  - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-03",
+     "owner": "Joint",
+     "ticker": "INFY",
+     "asset": "Infosys Limited American Depositary Shares",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-03",
+     "owner": "Joint",
+     "ticker": "ITW",
+     "asset": "Illinois Tool Works Inc. Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-03",
+     "owner": "Joint",
+     "ticker": "HUMA",
+     "asset": "Humacyte, Inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-03",
+     "owner": "Joint",
+     "ticker": "HUMA",
+     "asset": "Humacyte, Inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-03",
+     "owner": "Joint",
+     "ticker": "HSY",
+     "asset": "The Hershey Company Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-03",
+     "owner": "Joint",
+     "ticker": "JKHY",
+     "asset": "Jack Henry & Associates, Inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-03",
+     "owner": "Joint",
+     "ticker": "GGG",
+     "asset": "Graco Inc. Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-03",
+     "owner": "Joint",
+     "ticker": "GRMN",
+     "asset": "Garmin Ltd. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-03",
+     "owner": "Joint",
+     "ticker": "GLPI",
+     "asset": "Gaming and Leisure Properties, Inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-03",
+     "owner": "Joint",
+     "ticker": "FDS",
+     "asset": "FactSet Research Systems Inc. Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-03",
+     "owner": "Joint",
+     "ticker": "ELS",
+     "asset": "Equity Lifestyle Properties, Inc. Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-03",
+     "owner": "Joint",
+     "ticker": "DECK",
+     "asset": "Deckers Outdoor Corporation Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-03",
+     "owner": "Joint",
+     "ticker": "CPRT",
+     "asset": "Copart, Inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-03",
+     "owner": "Joint",
+     "ticker": "CBSH",
+     "asset": "Commerce Bancshares, Inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-03",
+     "owner": "Joint",
+     "ticker": "CTAS",
+     "asset": "Cintas Corporation - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-03",
+     "owner": "Joint",
+     "ticker": "CDNS",
+     "asset": "Cadence Design Systems, Inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-03",
+     "owner": "Joint",
+     "ticker": "DOW",
+     "asset": "Dow Inc. Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-03",
+     "owner": "Joint",
+     "ticker": "BRO",
+     "asset": "Brown & Brown, Inc. Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-03",
+     "owner": "Joint",
+     "ticker": "ASML",
+     "asset": "ASML Holding N.V. - New York Registry Shares",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2024-05-03",
+     "owner": "Joint",
+     "ticker": "A",
+     "asset": "Agilent Technologies, Inc. Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    }
+   ]
+  },
+  {
+   "id": "014817f0-9809-457f-8ac5-048948608e02",
+   "first": "Thomas H",
+   "last": "Tuberville",
+   "filed": "2026-08-05",
+   "url": "https://efdsearch.senate.gov/search/view/ptr/014817f0-9809-457f-8ac5-048948608e02/",
+   "paper": false,
+   "transactions": [
+    {
+     "date": "2025-04-15",
+     "owner": "Self",
+     "ticker": "BMY",
+     "asset": "Bristol-Myers Squibb Company",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2025-04-15",
+     "owner": "Self",
+     "ticker": "PYPL",
+     "asset": "Paypal Holdings",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2025-04-15",
+     "owner": "Self",
+     "ticker": "USIG",
+     "asset": "iShares Broad USD Investment Grade Corporate Bond",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$50,001 - $100,000",
+     "comment": "--"
+    },
+    {
+     "date": "2025-04-15",
+     "owner": "Joint",
+     "ticker": "JPM",
+     "asset": "JP Morgan Chase & Company",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2025-04-15",
+     "owner": "Joint",
+     "ticker": "GOOGL",
+     "asset": "Alphabet Cl A",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2025-04-15",
+     "owner": "Joint",
+     "ticker": "AMGN",
+     "asset": "Amgen Inc",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2025-04-15",
+     "owner": "Joint",
+     "ticker": "AAPL",
+     "asset": "Apple Inc",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2025-04-15",
+     "owner": "Joint",
+     "ticker": "ADM",
+     "asset": "Archer Daniels Midland",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2025-04-15",
+     "owner": "Joint",
+     "ticker": "CSX",
+     "asset": "CSX Corp",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2025-04-15",
+     "owner": "Joint",
+     "ticker": "STZ",
+     "asset": "Constellation Brands Inc",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2025-04-15",
+     "owner": "Joint",
+     "ticker": "DUK",
+     "asset": "Duke Energy Corp",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2025-04-15",
+     "owner": "Joint",
+     "ticker": "GS",
+     "asset": "Goldman Sachs Group",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2025-04-15",
+     "owner": "Joint",
+     "ticker": "LLY",
+     "asset": "Eli Lilly and Company",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2025-04-15",
+     "owner": "Joint",
+     "ticker": "MA",
+     "asset": "Mastercard Inc",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2025-04-15",
+     "owner": "Joint",
+     "ticker": "MSFT",
+     "asset": "Microsoft Corp",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2025-04-15",
+     "owner": "Joint",
+     "ticker": "",
+     "asset": "Qualcomm Inc",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    }
+   ]
+  },
   {
    "id": "60c01547-0cf9-46c6-9ce6-f0102f5941f6",
    "first": "Shelley M",
