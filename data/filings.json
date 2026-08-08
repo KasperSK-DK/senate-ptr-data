@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-08-07T07:42:54.830781+00:00",
+ "generated_at": "2026-08-08T07:16:49.566483+00:00",
  "source": "efdsearch.senate.gov",
  "filings": [
+  {
+   "id": "328a9b36-1205-4117-bdc4-cd7c3ccbcbbc",
+   "first": "Gary C",
+   "last": "Peters",
+   "filed": "2026-08-07",
+   "url": "https://efdsearch.senate.gov/search/view/ptr/328a9b36-1205-4117-bdc4-cd7c3ccbcbbc/",
+   "paper": false,
+   "transactions": [
+    {
+     "date": "2026-07-23",
+     "owner": "Self",
+     "ticker": "O",
+     "asset": "Realty Income Corporation Common Stock",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    }
+   ]
+  },
   {
    "id": "d1afafd0-a78f-44ef-ae47-da99dfb01317",
    "first": "Thomas H",
