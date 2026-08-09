@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-08-08T07:16:49.566483+00:00",
+ "generated_at": "2026-08-09T07:17:33.487945+00:00",
  "source": "efdsearch.senate.gov",
  "filings": [
+  {
+   "id": "5ecc9b5c-07c1-4ec1-bd4a-2db759eff299",
+   "first": "Ron L",
+   "last": "Wyden",
+   "filed": "2026-08-08",
+   "url": "https://efdsearch.senate.gov/search/view/ptr/5ecc9b5c-07c1-4ec1-bd4a-2db759eff299/",
+   "paper": false,
+   "transactions": [
+    {
+     "date": "2025-04-30",
+     "owner": "Spouse",
+     "ticker": "-- AMCR",
+     "asset": "BERY - Berry Global Group, Inc. (Exchanged) Amcor plc Ordinary Shares (Received)",
+     "asset_type": "Stock",
+     "type": "Exchange",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    }
+   ]
+  },
   {
    "id": "328a9b36-1205-4117-bdc4-cd7c3ccbcbbc",
    "first": "Gary C",
