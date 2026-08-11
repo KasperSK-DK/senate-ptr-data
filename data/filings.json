@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-08-10T08:05:23.433392+00:00",
+ "generated_at": "2026-08-11T07:38:42.190000+00:00",
  "source": "efdsearch.senate.gov",
  "filings": [
+  {
+   "id": "c993b04b-6773-47e2-9b61-ab5dfe9e68b1",
+   "first": "John",
+   "last": "Fetterman",
+   "filed": "2026-08-10",
+   "url": "https://efdsearch.senate.gov/search/view/ptr/c993b04b-6773-47e2-9b61-ab5dfe9e68b1/",
+   "paper": false,
+   "transactions": [
+    {
+     "date": "2026-07-24",
+     "owner": "Child",
+     "ticker": "",
+     "asset": "Freeport McMoran Rate/Coupon: 9.5% Matures: 2031-06-01",
+     "asset_type": "Corporate Bond",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-07-24",
+     "owner": "Child",
+     "ticker": "",
+     "asset": "Hasbro Inc Note Rate/Coupon: 3.55% Matures: 2026-11-19",
+     "asset_type": "Corporate Bond",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-07-07",
+     "owner": "Child",
+     "ticker": "",
+     "asset": "Venus Tex Independent Sch Dist Rate/Coupon: 5.25% Matures: 2055-08-15",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    }
+   ]
+  },
   {
    "id": "5ecc9b5c-07c1-4ec1-bd4a-2db759eff299",
    "first": "Ron L",
