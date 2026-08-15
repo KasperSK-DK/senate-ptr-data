@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-08-14T07:52:20.314312+00:00",
+ "generated_at": "2026-08-15T06:58:11.312349+00:00",
  "source": "efdsearch.senate.gov",
  "filings": [
+  {
+   "id": "047c4167-e0a9-44d4-a2bf-5477eb6b20ab",
+   "first": "Mark R",
+   "last": "Warner",
+   "filed": "2026-08-14",
+   "url": "https://efdsearch.senate.gov/search/view/ptr/047c4167-e0a9-44d4-a2bf-5477eb6b20ab/",
+   "paper": false,
+   "transactions": [
+    {
+     "date": "2026-07-07",
+     "owner": "Self",
+     "ticker": "",
+     "asset": "Manassas VA GO Public Improvement Refunding Bonds Rate/Coupon: 4.0% Matures: 2032-01-01",
+     "asset_type": "Municipal Security",
+     "type": "Purchase",
+     "amount": "$50,001 - $100,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-07-02",
+     "owner": "Self",
+     "ticker": "",
+     "asset": "Alexandria VA GO Capital Improvement Bonds Rate/Coupon: 5.0% Matures: 2031-12-15",
+     "asset_type": "Municipal Security",
+     "type": "Purchase",
+     "amount": "$50,001 - $100,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-07-02",
+     "owner": "Self",
+     "ticker": "",
+     "asset": "Virginia Beach VA GO Public Improvement Bonds Rate/Coupon: 5.0% Matures: 2031-02-01",
+     "asset_type": "Municipal Security",
+     "type": "Purchase",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    }
+   ]
+  },
   {
    "id": "f0a05c3b-66e0-4287-a388-454e2b4c823d",
    "first": "Rick",
