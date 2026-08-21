@@ -1,7 +1,107 @@
 {
- "generated_at": "2026-08-20T07:07:10.970762+00:00",
+ "generated_at": "2026-08-21T07:08:37.212401+00:00",
  "source": "efdsearch.senate.gov",
  "filings": [
+  {
+   "id": "f727289a-4d72-4c90-a3ea-63d5bcd23398",
+   "first": "John",
+   "last": "Boozman",
+   "filed": "2026-08-20",
+   "url": "https://efdsearch.senate.gov/search/view/ptr/f727289a-4d72-4c90-a3ea-63d5bcd23398/",
+   "paper": false,
+   "transactions": [
+    {
+     "date": "2025-04-16",
+     "owner": "Joint",
+     "ticker": "UNH",
+     "asset": "Unitedhealth Group Inc",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2025-04-16",
+     "owner": "Joint",
+     "ticker": "ORCL",
+     "asset": "Oracle Corp",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2025-04-22",
+     "owner": "Joint",
+     "ticker": "MSFT",
+     "asset": "Microsoft Corp",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2025-04-16",
+     "owner": "Joint",
+     "ticker": "MSFT",
+     "asset": "Microsoft Corp",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2025-04-15",
+     "owner": "Joint",
+     "ticker": "META",
+     "asset": "Meta Platforms Inc",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2025-04-09",
+     "owner": "Joint",
+     "ticker": "HYG",
+     "asset": "iShares iBoxx $ High Yield Corporate Bond ETF",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2025-04-08",
+     "owner": "Joint",
+     "ticker": "COLPAL",
+     "asset": "COLGATE PALMOLIVE LTD.",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2025-04-08",
+     "owner": "Joint",
+     "ticker": "CBOE",
+     "asset": "Cboe Global Markets, Inc. Common Stock",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2025-04-08",
+     "owner": "Joint",
+     "ticker": "AVGO",
+     "asset": "Broadcom Inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    }
+   ]
+  },
   {
    "id": "4a558db2-e492-4e8f-8a28-7b703a5c8e08",
    "first": "John",
