@@ -1,7 +1,157 @@
 {
- "generated_at": "2026-08-24T07:29:36.437374+00:00",
+ "generated_at": "2026-08-25T07:09:30.133351+00:00",
  "source": "efdsearch.senate.gov",
  "filings": [
+  {
+   "id": "51455bcd-4966-4e77-b481-09897ada81ae",
+   "first": "John",
+   "last": "Boozman",
+   "filed": "2026-08-24",
+   "url": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/",
+   "paper": false,
+   "transactions": [
+    {
+     "date": "2025-11-21",
+     "owner": "Joint",
+     "ticker": "VEA",
+     "asset": "Vanguard FTSE Developed Markets ETF",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2025-11-21",
+     "owner": "Joint",
+     "ticker": "VNQI",
+     "asset": "Vanguard Global ex-U.S. Real Estate ETF",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2025-11-21",
+     "owner": "Joint",
+     "ticker": "TPYP",
+     "asset": "Tortoise North Amer Pipeline Fund",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2025-11-13",
+     "owner": "Joint",
+     "ticker": "CRM",
+     "asset": "Salesforce Inc",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2025-11-20",
+     "owner": "Joint",
+     "ticker": "RNWGX",
+     "asset": "NEW WORLD FUND INC - Class R-6",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2025-11-21",
+     "owner": "Joint",
+     "ticker": "LLY",
+     "asset": "Eli Lilly and Company",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2025-11-21",
+     "owner": "Joint",
+     "ticker": "IVV",
+     "asset": "iShares Core S&P 500 ETF",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2025-11-21",
+     "owner": "Joint",
+     "ticker": "IWM",
+     "asset": "iShares Russell 2000 ETF",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2025-11-20",
+     "owner": "Joint",
+     "ticker": "EFA",
+     "asset": "iShares MSCI EAFE ETF",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2025-11-06",
+     "owner": "Joint",
+     "ticker": "AAXJ",
+     "asset": "iShares MSCI All Country Asia ex Japan ETF",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2025-11-20",
+     "owner": "Joint",
+     "ticker": "GEM",
+     "asset": "Goldman Sachs ActiveBeta Emerging Markets Equity E",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2025-11-21",
+     "owner": "Joint",
+     "ticker": "FISV",
+     "asset": "Fiserv Inc",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2025-11-21",
+     "owner": "Joint",
+     "ticker": "FTGC",
+     "asset": "First Trust Global Tactical Commodity Strategy Fun",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2025-11-21",
+     "owner": "Joint",
+     "ticker": "EIPI",
+     "asset": "First Trust Exchange-Traded Fund VIII FT Energy In",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    }
+   ]
+  },
   {
    "id": "f727289a-4d72-4c90-a3ea-63d5bcd23398",
    "first": "John",
