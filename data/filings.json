@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-26T07:09:56.353360+00:00",
+ "generated_at": "2026-08-27T17:39:18.038945+00:00",
  "source": "efdsearch.senate.gov",
  "filings": [
   {
@@ -151,6 +151,15 @@
      "comment": "--"
     }
    ]
+  },
+  {
+   "id": "ec20cd93-6702-4a29-b3a6-983f4b17f365",
+   "first": "Richard",
+   "last": "Blumenthal",
+   "filed": "2026-08-21",
+   "url": "https://efdsearch.senate.gov/search/view/paper/ec20cd93-6702-4a29-b3a6-983f4b17f365/",
+   "paper": true,
+   "transactions": []
   },
   {
    "id": "f727289a-4d72-4c90-a3ea-63d5bcd23398",
