@@ -1,7 +1,557 @@
 {
- "generated_at": "2026-08-27T17:39:18.038945+00:00",
+ "generated_at": "2026-08-28T18:44:48.136836+00:00",
  "source": "efdsearch.senate.gov",
  "filings": [
+  {
+   "id": "5a76ceb6-2d1d-4430-8a17-6512bcb402be",
+   "first": "Christopher A",
+   "last": "Coons",
+   "filed": "2026-08-28",
+   "url": "https://efdsearch.senate.gov/search/view/ptr/5a76ceb6-2d1d-4430-8a17-6512bcb402be/",
+   "paper": false,
+   "transactions": [
+    {
+     "date": "2026-08-07",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "W.L. Gore & Associates, Inc. Company: W.L. Gore & Associates, Inc.\n                                                    \n                                                        \u00a0(Newark, Delaware) Description: Advanced materials manufacturing",
+     "asset_type": "Non-Public Stock",
+     "type": "Sale (Partial)",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    }
+   ]
+  },
+  {
+   "id": "257795ae-e1b2-411d-b562-8fe4c2a4f2a1",
+   "first": "David H",
+   "last": "Mccormick",
+   "filed": "2026-08-27",
+   "url": "https://efdsearch.senate.gov/search/view/ptr/257795ae-e1b2-411d-b562-8fe4c2a4f2a1/",
+   "paper": false,
+   "transactions": [
+    {
+     "date": "2026-08-19",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "GS Managed Structured Note Strategy S&P 500 Linked Note",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$50,001 - $100,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-08-18",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "GS Managed Structured Note Strategy MSCI EAFE Linked Note",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$250,001 - $500,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-08-17",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "GS Managed Structured Note Strategy S&P 500 Linked Note",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-08-17",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "GS Managed Structured Note Strategy S&P 500 Linked Note",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-08-12",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "GS Managed Structured Note Strategy S&P 500 Linked Note",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-08-12",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "GS Managed Structured Note Strategy S&P 500 Linked Note",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-08-11",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "GS Managed Structured Note Strategy MSCI EAFE Linked Note",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-08-10",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "GS Managed Structured Note Strategy S&P 500 Linked Note",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$250,001 - $500,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-08-10",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "GS Managed Structured Note Strategy S&P 500 Linked Note",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-08-05",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "GS Managed Structured Note Strategy S&P 500 Linked Note",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-08-05",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "GS Managed Structured Note Strategy S&P 500 Linked Note",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-08-04",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "GS Managed Structured Note Strategy MSCI EAFE Linked Note",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-08-04",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "GS Managed Structured Note Strategy MSCI EAFE Linked Note",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-08-03",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "GS Managed Structured Note Strategy S&P 500 Linked Note",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-08-03",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "GS Managed Structured Note Strategy S&P 500 Linked Note",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-07-31",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "PENNSYLVANIA ST TPK COMMN OIL REV Rate/Coupon: 5% Matures: 2026-12-01",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Full)",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-07-31",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "WASHINGTON ST GO Rate/Coupon: 5% Matures: 2033-02-01",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$50,001 - $100,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-07-31",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "SPRINGFIELD TWP SCH DIST PA GO Rate/Coupon: 5% Matures: 2030-11-15",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$50,001 - $100,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-07-31",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "PHILADELPHIA PA AUTH FOR INDL REV Rate/Coupon: 5% Matures: 2031-12-01",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-07-31",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "PENNSYLVANIA ST TPK COMMN REV Rate/Coupon: 5.25% Matures: 2030-07-15",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-07-31",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "PENNSYLVANIA ST HIGHER EDL REV Rate/Coupon: 4% Matures: 2031-06-15",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-07-31",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "PENNSYLVANIA ST GO Rate/Coupon: 5% Matures: 2035-04-01",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$50,001 - $100,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-07-31",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "PENNSYLVANIA ST GO Rate/Coupon: 5% Matures: 2034-04-01",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-07-31",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "PENNSYLVANIA ST GO Rate/Coupon: 5% Matures: 2033-08-15",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$50,001 - $100,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-07-31",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "PENNSYLVANIA ST GO Rate/Coupon: 5% Matures: 2035-08-15",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$50,001 - $100,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-07-31",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "OXFORD PA AREA SCH DIST GO Rate/Coupon: 5% Matures: 2032-09-01",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-07-31",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "NORTHAMPTON CNTY PA GEN PURP A REV Rate/Coupon: 5% Matures: 2034-11-15",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$50,001 - $100,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-07-31",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "DEL CNTY PA AUTH COLLEGE REV Rate/Coupon: 5% Matures: 2026-10-01",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$50,001 - $100,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-07-31",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "DALLAS TEX INDPT SCH DIST GO Rate/Coupon: 5% Matures: 2033-02-15",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$50,001 - $100,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-07-31",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "CORPUS CHRISTI TEX UTIL SYS REV Rate/Coupon: 5% Matures: 2029-07-15",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$50,001 - $100,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-07-31",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "CHESTER CNTY PA SCH AUTH SCH REV Rate/Coupon: 5% Matures: 2027-03-01",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$50,001 - $100,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-07-31",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "ALVIN TEX INDPT SCH DIST GO Rate/Coupon: 5% Matures: 2035-02-15",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$50,001 - $100,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-07-31",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "ALLEGHENY CNTY HIGHER ED BLDG REV Rate/Coupon: 5% Matures: 2032-02-01",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$50,001 - $100,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-07-30",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "WASHINGTON ST GO Rate/Coupon: 5% Matures: 2033-02-01",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-07-30",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "SPRINGFIELD TWP SCH DIST PA GO Rate/Coupon: 5% Matures: 2030-11-15",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-07-30",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "PHILADELPHIA PA AUTH FOR INDL REV Rate/Coupon: 5% Matures: 2031-12-01",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-07-30",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "PENNSYLVANIA ST TPK COMMN TPK REV Rate/Coupon: 5% Matures: 2030-12-01",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-07-30",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "PENNSYLVANIA ST TPK COMMN OIL REV Rate/Coupon: 5% Matures: 2026-12-01",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-07-30",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "PENNSYLVANIA ST HIGHER EDL REV Rate/Coupon: 4% Matures: 2031-06-15",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-07-30",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "PENNSYLVANIA ST GO Rate/Coupon: 5% Matures: 2035-04-01",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$50,001 - $100,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-07-30",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "PENNSYLVANIA ST GO Rate/Coupon: 5% Matures: 2034-04-01",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-07-30",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "PENNSYLVANIA ST GO Rate/Coupon: 5% Matures: 2033-08-15",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-07-30",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "PENNSYLVANIA ST GO Rate/Coupon: 5% Matures: 2035-08-15",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$50,001 - $100,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-07-30",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "OXFORD PA AREA SCH DIST GO Rate/Coupon: 5% Matures: 2032-09-01",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$50,001 - $100,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-07-30",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "NORTHAMPTON CNTY PA GEN PURP A REV Rate/Coupon: 5% Matures: 2034-11-15",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-07-30",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "DALLAS TEX INDPT SCH DIST GO Rate/Coupon: 5% Matures: 2033-02-15",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-07-30",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "CORPUS CHRISTI TEX UTIL SYS REV Rate/Coupon: 5% Matures: 2029-07-15",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-07-30",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "CHESTER CNTY PA SCH AUTH SCH REV Rate/Coupon: 5% Matures: 2027-03-01",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-07-30",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "ALVIN TEX INDPT SCH DIST GO Rate/Coupon: 5% Matures: 2035-02-15",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-07-30",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "ALLEGHENY CNTY HIGHER ED BLDG REV Rate/Coupon: 5% Matures: 2032-02-01",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Partial)",
+     "amount": "$250,001 - $500,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-07-28",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "GS Managed Structured Note Strategy MSCI EAFE Linked Note",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-08-06",
+     "owner": "Self",
+     "ticker": "",
+     "asset": "NORTHERN YORK CNTY PA SCH DIST GEN Rate/Coupon: 5.25% Matures: 2051-11-15",
+     "asset_type": "Municipal Security",
+     "type": "Purchase",
+     "amount": "$250,001 - $500,000",
+     "comment": "--"
+    }
+   ]
+  },
   {
    "id": "51455bcd-4966-4e77-b481-09897ada81ae",
    "first": "John",
