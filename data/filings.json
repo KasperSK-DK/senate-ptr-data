@@ -1,7 +1,16 @@
 {
- "generated_at": "2026-09-01T11:41:25.704914+00:00",
+ "generated_at": "2026-09-02T11:21:35.544006+00:00",
  "source": "efdsearch.senate.gov",
  "filings": [
+  {
+   "id": "929216d5-5dbd-429c-858c-1e9332924627",
+   "first": "Richard",
+   "last": "Blumenthal",
+   "filed": "2026-08-31",
+   "url": "https://efdsearch.senate.gov/search/view/paper/929216d5-5dbd-429c-858c-1e9332924627/",
+   "paper": true,
+   "transactions": []
+  },
   {
    "id": "5a76ceb6-2d1d-4430-8a17-6512bcb402be",
    "first": "Christopher A",
