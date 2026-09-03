@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-09-02T11:21:35.544006+00:00",
+ "generated_at": "2026-09-03T11:17:49.521536+00:00",
  "source": "efdsearch.senate.gov",
  "filings": [
+  {
+   "id": "f8d003c0-ca1e-4c39-9d66-632d220180e1",
+   "first": "Sheldon",
+   "last": "Whitehouse",
+   "filed": "2026-09-02",
+   "url": "https://efdsearch.senate.gov/search/view/ptr/f8d003c0-ca1e-4c39-9d66-632d220180e1/",
+   "paper": false,
+   "transactions": [
+    {
+     "date": "2026-08-06",
+     "owner": "Self",
+     "ticker": "",
+     "asset": "SDZNY- Sandoz Group AG ADR",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-08-13",
+     "owner": "Self",
+     "ticker": "NVDA",
+     "asset": "NVIDIA Corporation - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-08-13",
+     "owner": "Spouse",
+     "ticker": "NVDA",
+     "asset": "NVIDIA Corporation - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-08-13",
+     "owner": "Spouse",
+     "ticker": "LRCX",
+     "asset": "Lam Research Corporation - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-08-12",
+     "owner": "Spouse",
+     "ticker": "AMGN",
+     "asset": "Amgen Inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    }
+   ]
+  },
   {
    "id": "929216d5-5dbd-429c-858c-1e9332924627",
    "first": "Richard",
