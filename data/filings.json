@@ -1,7 +1,107 @@
 {
- "generated_at": "2026-09-09T11:26:28.418468+00:00",
+ "generated_at": "2026-09-10T11:23:04.694163+00:00",
  "source": "efdsearch.senate.gov",
  "filings": [
+  {
+   "id": "e5144197-e49c-4f74-bec4-19f1f3124668",
+   "first": "Cory A",
+   "last": "Booker",
+   "filed": "2026-09-09",
+   "url": "https://efdsearch.senate.gov/search/view/ptr/e5144197-e49c-4f74-bec4-19f1f3124668/",
+   "paper": false,
+   "transactions": [
+    {
+     "date": "2026-08-18",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "webAI, Inc. Company: webAI, Inc.\n                                                    \n                                                        \u00a0(Austin, TX) Description: Technology Company",
+     "asset_type": "Non-Public Stock",
+     "type": "Sale (Full)",
+     "amount": "$50,001 - $100,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-08-11",
+     "owner": "Spouse",
+     "ticker": "NVDA",
+     "asset": "NVIDIA Corporation - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-08-11",
+     "owner": "Spouse",
+     "ticker": "NFLX",
+     "asset": "Netflix, Inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-08-11",
+     "owner": "Spouse",
+     "ticker": "MCD",
+     "asset": "McDonald's Corporation Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-08-11",
+     "owner": "Spouse",
+     "ticker": "AMZN",
+     "asset": "Amazon.com, Inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-08-11",
+     "owner": "Spouse",
+     "ticker": "ALNY",
+     "asset": "Alnylam Pharmaceuticals, Inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-08-11",
+     "owner": "Spouse",
+     "ticker": "JD",
+     "asset": "JD.com, Inc. - American Depositary Shares",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    }
+   ]
+  },
+  {
+   "id": "a0431e36-2161-4e97-b99a-74a966d7193a",
+   "first": "John",
+   "last": "Fetterman",
+   "filed": "2026-09-09",
+   "url": "https://efdsearch.senate.gov/search/view/ptr/a0431e36-2161-4e97-b99a-74a966d7193a/",
+   "paper": false,
+   "transactions": [
+    {
+     "date": "2026-08-18",
+     "owner": "Child",
+     "ticker": "",
+     "asset": "TRANSCANADA PIPELINES LTD SER 2026-A Rate/Coupon: 6.125% Matures: 2056-10-17",
+     "asset_type": "Corporate Bond",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    }
+   ]
+  },
   {
    "id": "f8d003c0-ca1e-4c39-9d66-632d220180e1",
    "first": "Sheldon",
