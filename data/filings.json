@@ -1,7 +1,117 @@
 {
- "generated_at": "2026-09-11T11:24:56.412186+00:00",
+ "generated_at": "2026-09-12T10:50:19.713145+00:00",
  "source": "efdsearch.senate.gov",
  "filings": [
+  {
+   "id": "6298991b-e48f-4b11-9bbb-dfc94a7e1b32",
+   "first": "John",
+   "last": "Boozman",
+   "filed": "2026-09-11",
+   "url": "https://efdsearch.senate.gov/search/view/ptr/6298991b-e48f-4b11-9bbb-dfc94a7e1b32/",
+   "paper": false,
+   "transactions": [
+    {
+     "date": "2026-08-27",
+     "owner": "Joint",
+     "ticker": "IVV",
+     "asset": "iShares Core S&P 500 ETF",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-08-20",
+     "owner": "Joint",
+     "ticker": "JNJ",
+     "asset": "Johnson & Johnson Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-08-19",
+     "owner": "Joint",
+     "ticker": "WWSYX",
+     "asset": "Westwood Quality SmallCap Fund - Westwood Quality SmallCap Fund Ultra Shares",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-08-13",
+     "owner": "Joint",
+     "ticker": "CEG",
+     "asset": "Constellation Energy Corporation - Common Stock When-Issued",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    }
+   ]
+  },
+  {
+   "id": "0632f542-7ac2-46e4-bd9c-603e3673f0cd",
+   "first": "John",
+   "last": "Boozman",
+   "filed": "2026-09-11",
+   "url": "https://efdsearch.senate.gov/search/view/ptr/0632f542-7ac2-46e4-bd9c-603e3673f0cd/",
+   "paper": false,
+   "transactions": [
+    {
+     "date": "2026-08-27",
+     "owner": "Joint",
+     "ticker": "OTIS",
+     "asset": "Otis Worldwide Corporation Common Stock",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-08-20",
+     "owner": "Joint",
+     "ticker": "SPYM",
+     "asset": "Tradr 2X Long SPY Monthly ETF",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-08-19",
+     "owner": "Joint",
+     "ticker": "IJR",
+     "asset": "iShares Core S&P Small-Cap ETF",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-08-19",
+     "owner": "Joint",
+     "ticker": "AVUV",
+     "asset": "Avantis U.S. Small Cap Value ETF",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-08-13",
+     "owner": "Joint",
+     "ticker": "FSLR",
+     "asset": "First Solar, Inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    }
+   ]
+  },
   {
    "id": "e5144197-e49c-4f74-bec4-19f1f3124668",
    "first": "Cory A",
