@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-09-13T11:55:48.800874+00:00",
+ "generated_at": "2026-09-14T12:51:54.224841+00:00",
  "source": "efdsearch.senate.gov",
  "filings": [
+  {
+   "id": "e67c6e56-c81e-4e74-b960-849a460165e2",
+   "first": "Angus S",
+   "last": "King, Jr.",
+   "filed": "2026-09-14",
+   "url": "https://efdsearch.senate.gov/search/view/ptr/e67c6e56-c81e-4e74-b960-849a460165e2/",
+   "paper": false,
+   "transactions": [
+    {
+     "date": "2026-08-05",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "EA - Electronic Arts Inc",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    }
+   ]
+  },
   {
    "id": "6298991b-e48f-4b11-9bbb-dfc94a7e1b32",
    "first": "John",
