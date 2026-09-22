@@ -1,7 +1,27 @@
 {
- "generated_at": "2026-09-21T12:52:17.741887+00:00",
+ "generated_at": "2026-09-22T11:42:06.657898+00:00",
  "source": "efdsearch.senate.gov",
  "filings": [
+  {
+   "id": "028aef33-dc0d-44a1-992f-aa35ee42685b",
+   "first": "A. Mitchell",
+   "last": "Mcconnell, Jr.",
+   "filed": "2026-09-21",
+   "url": "https://efdsearch.senate.gov/search/view/ptr/028aef33-dc0d-44a1-992f-aa35ee42685b/",
+   "paper": false,
+   "transactions": [
+    {
+     "date": "2026-09-01",
+     "owner": "Spouse",
+     "ticker": "WFC",
+     "asset": "Wells Fargo & Company Common Stock",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$15,001 - $50,000",
+     "comment": "Dividend reinvestment"
+    }
+   ]
+  },
   {
    "id": "b999bc0e-3eb0-4ca9-ab07-8e8f2e04b41f",
    "first": "Alan",
