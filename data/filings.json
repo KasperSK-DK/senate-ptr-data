@@ -1,7 +1,67 @@
 {
- "generated_at": "2026-10-01T13:20:30.917314+00:00",
+ "generated_at": "2026-10-02T12:39:19.889154+00:00",
  "source": "efdsearch.senate.gov",
  "filings": [
+  {
+   "id": "6bf3b6f7-9e1b-499a-bd5a-990292ce2e72",
+   "first": "Sheldon",
+   "last": "Whitehouse",
+   "filed": "2026-10-01",
+   "url": "https://efdsearch.senate.gov/search/view/ptr/6bf3b6f7-9e1b-499a-bd5a-990292ce2e72/",
+   "paper": false,
+   "transactions": [
+    {
+     "date": "2026-09-04",
+     "owner": "Spouse",
+     "ticker": "JPM",
+     "asset": "JP Morgan Chase & Co. Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-09-04",
+     "owner": "Spouse",
+     "ticker": "ADI",
+     "asset": "Analog Devices, Inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-09-04",
+     "owner": "Spouse",
+     "ticker": "V",
+     "asset": "Visa Inc.",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-09-04",
+     "owner": "Self",
+     "ticker": "V",
+     "asset": "Visa Inc.",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-09-04",
+     "owner": "Self",
+     "ticker": "JPM",
+     "asset": "JP Morgan Chase & Co. Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    }
+   ]
+  },
   {
    "id": "9e2ff733-aeac-4ce8-872c-3d6b7913da88",
    "first": "Richard",
