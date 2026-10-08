@@ -1,7 +1,37 @@
 {
- "generated_at": "2026-10-07T13:28:14.792796+00:00",
+ "generated_at": "2026-10-08T13:33:51.921645+00:00",
  "source": "efdsearch.senate.gov",
  "filings": [
+  {
+   "id": "0541be4f-4f96-4d84-8d6f-d349f218bb2a",
+   "first": "John",
+   "last": "Fetterman",
+   "filed": "2026-10-07",
+   "url": "https://efdsearch.senate.gov/search/view/ptr/0541be4f-4f96-4d84-8d6f-d349f218bb2a/",
+   "paper": false,
+   "transactions": [
+    {
+     "date": "2026-09-16",
+     "owner": "Child",
+     "ticker": "",
+     "asset": "DELL INTL LLC/EMC CORP Rate/Coupon: 5.6% Matures: 2033-09-15",
+     "asset_type": "Corporate Bond",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-09-15",
+     "owner": "Child",
+     "ticker": "",
+     "asset": "DELL INTL LLC/EMC CORP Rate/Coupon: 5.6% Matures: 2033-09-15",
+     "asset_type": "Corporate Bond",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    }
+   ]
+  },
   {
    "id": "6bf3b6f7-9e1b-499a-bd5a-990292ce2e72",
    "first": "Sheldon",
