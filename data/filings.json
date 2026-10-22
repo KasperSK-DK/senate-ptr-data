@@ -1,7 +1,197 @@
 {
- "generated_at": "2026-10-21T11:53:13.060722+00:00",
+ "generated_at": "2026-10-22T11:56:37.870187+00:00",
  "source": "efdsearch.senate.gov",
  "filings": [
+  {
+   "id": "94c5f7b9-cdbc-40b4-aeba-de920da58588",
+   "first": "John",
+   "last": "Boozman",
+   "filed": "2026-10-21",
+   "url": "https://efdsearch.senate.gov/search/view/ptr/94c5f7b9-cdbc-40b4-aeba-de920da58588/",
+   "paper": false,
+   "transactions": [
+    {
+     "date": "2026-09-24",
+     "owner": "Joint",
+     "ticker": "CSCO",
+     "asset": "Cisco Systems, Inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-09-24",
+     "owner": "Joint",
+     "ticker": "O",
+     "asset": "Realty Income Corporation Common Stock",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-09-21",
+     "owner": "Joint",
+     "ticker": "XTWO",
+     "asset": "BondBloxx Bloomberg Two Year Target Duration US Treasury ETF",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-09-09",
+     "owner": "Joint",
+     "ticker": "GIGB",
+     "asset": "Goldman Sachs Access Investment Grade Corporate Bond ETF",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-09-09",
+     "owner": "Joint",
+     "ticker": "JMBS",
+     "asset": "Janus Henderson Mortgage-Backed Securities ETF",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-09-09",
+     "owner": "Joint",
+     "ticker": "XFIV",
+     "asset": "BondBloxx Bloomberg Five Year Target Duration US Treasury ETF",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-09-09",
+     "owner": "Joint",
+     "ticker": "MBB",
+     "asset": "iShares MBS ETF",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-09-09",
+     "owner": "Joint",
+     "ticker": "IEF",
+     "asset": "iShares 7-10 Year Treasury Bond ETF",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-09-09",
+     "owner": "Joint",
+     "ticker": "TLH",
+     "asset": "iShares 10-20 Year Treasury Bond ETF",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-09-09",
+     "owner": "Joint",
+     "ticker": "CMBS",
+     "asset": "iShares CMBS ETF",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    }
+   ]
+  },
+  {
+   "id": "7dfdae57-9401-4bf1-9059-85d1e5ee4a84",
+   "first": "John",
+   "last": "Boozman",
+   "filed": "2026-10-21",
+   "url": "https://efdsearch.senate.gov/search/view/ptr/7dfdae57-9401-4bf1-9059-85d1e5ee4a84/",
+   "paper": false,
+   "transactions": [
+    {
+     "date": "2026-09-25",
+     "owner": "Joint",
+     "ticker": "APTV",
+     "asset": "Aptiv PLC Ordinary Shares",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-09-24",
+     "owner": "Joint",
+     "ticker": "MU",
+     "asset": "Micron Technology, Inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-09-21",
+     "owner": "Joint",
+     "ticker": "TLH",
+     "asset": "iShares 10-20 Year Treasury Bond ETF",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-09-09",
+     "owner": "Joint",
+     "ticker": "VEA",
+     "asset": "Vanguard Developed Markets Index Fund - ETF Shares",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-09-09",
+     "owner": "Joint",
+     "ticker": "SPYM",
+     "asset": "Tradr 2X Long SPY Monthly ETF",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-09-09",
+     "owner": "Joint",
+     "ticker": "EFA",
+     "asset": "iShares MSCI EAFE ETF",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-09-09",
+     "owner": "Joint",
+     "ticker": "MU",
+     "asset": "Micron Technology, Inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    }
+   ]
+  },
   {
    "id": "0541be4f-4f96-4d84-8d6f-d349f218bb2a",
    "first": "John",
