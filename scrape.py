@@ -16,6 +16,16 @@ Flow (the site is a Django app behind a DataTables endpoint):
 Incremental: filings already in data/filings.json are skipped; pagination
 stops at the first fully-known page. Run with SCRAPE_FULL=1 to re-walk the
 whole window (START_DATE, default 2025-01-01).
+
+Refusals: since 23 Oct 2026 the site's Akamai edge answers automated clients
+with 403 on every network, GitHub's runners included. A 403/429 is treated as
+the site's decision, not an obstacle: no retry, no disguise. The run records
+it in data/status.json, leaves filings.json untouched and exits 0 — the
+failure would otherwise email someone every day about something nobody here
+can fix, while the Disclosure Tracker reads status.json and reports the outage
+once through its own health alerts. The daily status commit also keeps the
+repository active, so GitHub does not disable the schedule after 60 quiet days
+and the mirror resumes by itself if the site reopens.
 """
 
 import json
@@ -37,6 +47,8 @@ PAGE_SIZE = 100
 DELAY_SECONDS = 0.5
 
 OUT_FILE = Path(__file__).parent / "data" / "filings.json"
+STATUS_FILE = Path(__file__).parent / "data" / "status.json"
+REFUSAL_CODES = (403, 429)
 START_DATE = os.environ.get("START_DATE", "01/01/2025 00:00:00")
 
 HEADERS = {
@@ -143,7 +155,46 @@ def parse_report_html(html: str) -> list[dict]:
     return transactions
 
 
+def write_status(state: str, now: datetime, http_status: int | None = None) -> None:
+    """Record the outcome of this run; `blocked_since` survives repeat refusals."""
+    previous = {}
+    if STATUS_FILE.exists():
+        previous = json.loads(STATUS_FILE.read_text(encoding="utf-8"))
+    status = {"state": state, "last_attempt": now.isoformat()}
+    if state == "ok":
+        status["last_success"] = now.isoformat()
+    else:
+        status["http_status"] = http_status
+        status["blocked_since"] = (
+            previous.get("blocked_since")
+            if previous.get("state") == "blocked"
+            else now.isoformat()
+        )
+        status["last_success"] = previous.get("last_success")
+        if status["last_success"] is None and OUT_FILE.exists():
+            status["last_success"] = json.loads(OUT_FILE.read_text(encoding="utf-8")).get(
+                "generated_at"
+            )
+    STATUS_FILE.parent.mkdir(exist_ok=True)
+    STATUS_FILE.write_text(json.dumps(status, indent=1) + "\n", encoding="utf-8")
+
+
 def main() -> None:
+    now = datetime.now(timezone.utc)
+    try:
+        scrape()
+    except httpx.HTTPStatusError as exc:
+        code = exc.response.status_code
+        if code not in REFUSAL_CODES:
+            raise
+        write_status("blocked", now, http_status=code)
+        print(f"efdsearch.senate.gov refused the request (HTTP {code}); not retrying. "
+              f"Recorded in {STATUS_FILE.name}, filings.json left as it was.")
+        return
+    write_status("ok", now)
+
+
+def scrape() -> None:
     existing: dict[str, dict] = {}
     if OUT_FILE.exists():
         for filing in json.loads(OUT_FILE.read_text(encoding="utf-8"))["filings"]:
