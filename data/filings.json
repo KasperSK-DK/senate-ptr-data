@@ -1,7 +1,637 @@
 {
- "generated_at": "2026-10-22T11:56:37.870187+00:00",
+ "generated_at": "2026-11-09T16:25:28.013686+00:00",
  "source": "efdsearch.senate.gov",
  "filings": [
+  {
+   "id": "a89c0c6b-4c12-4955-98f9-3a54ca52d8a3",
+   "first": "Shelley M",
+   "last": "Capito",
+   "filed": "2026-11-04",
+   "url": "https://efdsearch.senate.gov/search/view/ptr/a89c0c6b-4c12-4955-98f9-3a54ca52d8a3/",
+   "paper": false,
+   "transactions": [
+    {
+     "date": "2026-10-21",
+     "owner": "Spouse",
+     "ticker": "ZTS",
+     "asset": "Zoetis Inc. Class A Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-10-21",
+     "owner": "Spouse",
+     "ticker": "MSFT",
+     "asset": "Microsoft Corporation - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-10-21",
+     "owner": "Spouse",
+     "ticker": "META",
+     "asset": "Meta Platforms, Inc. - Class A Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-10-21",
+     "owner": "Spouse",
+     "ticker": "AAPL",
+     "asset": "Apple Inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    }
+   ]
+  },
+  {
+   "id": "02b5fe88-e8e1-4ef3-b6b5-6a46b420fb3c",
+   "first": "Sheldon",
+   "last": "Whitehouse",
+   "filed": "2026-11-02",
+   "url": "https://efdsearch.senate.gov/search/view/ptr/02b5fe88-e8e1-4ef3-b6b5-6a46b420fb3c/",
+   "paper": false,
+   "transactions": [
+    {
+     "date": "2026-10-15",
+     "owner": "Spouse",
+     "ticker": "MSFT",
+     "asset": "Microsoft Corporation - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-10-15",
+     "owner": "Spouse",
+     "ticker": "AMGN",
+     "asset": "Amgen Inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Full)",
+     "amount": "$15,001 - $50,000",
+     "comment": "--"
+    }
+   ]
+  },
+  {
+   "id": "3ab689df-21ae-44c5-85ac-1f5e4bc8464d",
+   "first": "David H",
+   "last": "Mccormick",
+   "filed": "2026-10-29",
+   "url": "https://efdsearch.senate.gov/search/view/ptr/3ab689df-21ae-44c5-85ac-1f5e4bc8464d/",
+   "paper": false,
+   "transactions": [
+    {
+     "date": "2026-10-19",
+     "owner": "Self",
+     "ticker": "",
+     "asset": "FOX CHAPEL PA AREA SCH DIST GO BDS SER. 2017 Rate/Coupon: 5% Matures: 2042-02-01",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Full)",
+     "amount": "$250,001 - $500,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-10-19",
+     "owner": "Self",
+     "ticker": "",
+     "asset": "PHILADELPHIA PA AUTH FOR INDL DEV CITY Rate/Coupon: 5% Matures: 2036-05-01",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Full)",
+     "amount": "$50,001 - $100,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-10-19",
+     "owner": "Self",
+     "ticker": "",
+     "asset": "PITTSBURGH & ALLEGHENY CNTY PA SPORTS & EXHIB AUTH REV Rate/Coupon: 5% Matures: 2031-02-01",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Full)",
+     "amount": "$250,001 - $500,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-10-13",
+     "owner": "Self",
+     "ticker": "",
+     "asset": "DAUPHIN CNTY PA GO NTS SER. 2024B Rate/Coupon: 5% Matures: 2044-11-15",
+     "asset_type": "Municipal Security",
+     "type": "Purchase",
+     "amount": "$500,001 - $1,000,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-10-13",
+     "owner": "Self",
+     "ticker": "",
+     "asset": "VERMONT EDL & HEALTH BLDGS FING AGY REV Rate/Coupon: 5% Matures: 2049-11-01",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Full)",
+     "amount": "$250,001 - $500,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-10-08",
+     "owner": "Self",
+     "ticker": "",
+     "asset": "ST JOSEPH CNTY INDIANA HOSP AUTH HOSP REV HOSP REV BDS BEACON HEALTH SYSTEM SER.2013C Rate/Coupon: 5% Matures: 2036-08-15",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Full)",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-10-08",
+     "owner": "Self",
+     "ticker": "",
+     "asset": "DARIEN CONN GO BDS SER. 2020 Rate/Coupon: 5% Matures: 2028-08-01",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Full)",
+     "amount": "$50,001 - $100,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-10-08",
+     "owner": "Self",
+     "ticker": "",
+     "asset": "ESSEX CONN GO BDS SER. 2017 Rate/Coupon: 3% Matures: 2029-09-15",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Full)",
+     "amount": "$250,001 - $500,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-10-08",
+     "owner": "Self",
+     "ticker": "",
+     "asset": "HEMPFIELD PA SCH DIST LANCASTER CNTY Rate/Coupon: 5% Matures: 2051-04-15",
+     "asset_type": "Municipal Security",
+     "type": "Purchase",
+     "amount": "$500,001 - $1,000,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-10-08",
+     "owner": "Self",
+     "ticker": "",
+     "asset": "MILFORD CONN GO REF BDS SER. 2021 Rate/Coupon: 5% Matures: 2031-11-01",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Full)",
+     "amount": "$250,001 - $500,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-10-08",
+     "owner": "Self",
+     "ticker": "",
+     "asset": "NEW YORK ST DORM AUTH ST PERS INCOME Rate/Coupon: 5% Matures: 2036-03-15",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Full)",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-10-01",
+     "owner": "Self",
+     "ticker": "",
+     "asset": "STATE COLLEGE PA AREA SCH DIST GO Rate/Coupon: 5% Matures: 2044-05-15",
+     "asset_type": "Municipal Security",
+     "type": "Purchase",
+     "amount": "$500,001 - $1,000,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-10-08",
+     "owner": "Self",
+     "ticker": "",
+     "asset": "UNIVERSITY CONN GO BDS SER. 2022 Rate/Coupon: 5% Matures: 2032-05-01",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Full)",
+     "amount": "$250,001 - $500,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-10-07",
+     "owner": "Self",
+     "ticker": "",
+     "asset": "PENNSYLVANIA ST TPK COMMN TPK REV BDS Rate/Coupon: 5% Matures: 2053-12-01",
+     "asset_type": "Municipal Security",
+     "type": "Purchase",
+     "amount": "$500,001 - $1,000,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-10-20",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "GS Managed Structured Note Strategy MSCI EAFE Linked Note",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$250,001 - $500,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-10-14",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "GS Managed Structured Note Strategy MSCI EAFE Linked Note",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-10-07",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "GS Managed Structured Note Strategy MSCI EAFE Linked Note",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$250,001 - $500,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-10-06",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "UNIV PITTSBURGH OF THE COMWLTH REV Rate/Coupon: 5% Matures: 2036-02-15",
+     "asset_type": "Municipal Security",
+     "type": "Purchase",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-09-30",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "POTTSVILLE PA HOSP AUTH HOSP REV Rate/Coupon: 5% Matures: 2041-07-01",
+     "asset_type": "Municipal Security",
+     "type": "Sale (Full)",
+     "amount": "$100,001 - $250,000",
+     "comment": "--"
+    }
+   ]
+  },
+  {
+   "id": "e67780bf-56e4-46f0-a81e-574a701dd539",
+   "first": "Richard",
+   "last": "Blumenthal",
+   "filed": "2026-10-26",
+   "url": "https://efdsearch.senate.gov/search/view/ptr/e67780bf-56e4-46f0-a81e-574a701dd539/",
+   "paper": false,
+   "transactions": [
+    {
+     "date": "2026-10-07",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "MH Built to Last LLC Company: MH Built to Last LLC\n                                                    \n                                                        \u00a0(New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$15,001 - $50,000",
+     "comment": "Underlying Asset of Summa I LLC"
+    },
+    {
+     "date": "2026-09-21",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "MH Built to Last LLC Company: MH Built to Last LLC\n                                                    \n                                                        \u00a0(New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "Underlying Asset of Summa I LLC"
+    },
+    {
+     "date": "2026-10-07",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "MH Built to Last LLC Company: MH Built to Last LLC\n                                                    \n                                                        \u00a0(New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "Underlying Asset of Other One LLC"
+    },
+    {
+     "date": "2026-10-07",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "MH Built to Last LLC Company: MH Built to Last LLC\n                                                    \n                                                        \u00a0(New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "Underlying Asset of New Things Partners LLC"
+    },
+    {
+     "date": "2026-09-22",
+     "owner": "Spouse",
+     "ticker": "STLN",
+     "asset": "Starling Oncology, Inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "Underlying Asset of Magnifique LLC. Name change \u2013 previously reported as Oncology Institute, Inc. (TOI)."
+    },
+    {
+     "date": "2026-09-18",
+     "owner": "Spouse",
+     "ticker": "STLN",
+     "asset": "Starling Oncology, Inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "Underlying Asset of Magnifique LLC. Name change \u2013 previously reported as Oncology Institute, Inc. (TOI)."
+    },
+    {
+     "date": "2026-10-07",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "MH Built to Last LLC Company: MH Built to Last LLC\n                                                    \n                                                        \u00a0(New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$15,001 - $50,000",
+     "comment": "Underlying Asset of LarryMae Partners LLC"
+    },
+    {
+     "date": "2026-09-22",
+     "owner": "Spouse",
+     "ticker": "STLN",
+     "asset": "Starling Oncology, Inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$15,001 - $50,000",
+     "comment": "Underlying Asset of LarryMae Partners LLC. Name change \u2013 previously reported as Oncology Institute, Inc. (TOI)."
+    },
+    {
+     "date": "2026-09-21",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "MH Built to Last LLC Company: MH Built to Last LLC\n                                                    \n                                                        \u00a0(New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "Underlying Asset of LarryMae Partners LLC"
+    },
+    {
+     "date": "2026-09-18",
+     "owner": "Spouse",
+     "ticker": "STLN",
+     "asset": "Starling Oncology, Inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$15,001 - $50,000",
+     "comment": "Underlying Asset of LarryMae Partners LLC. Name change \u2013 previously reported as Oncology Institute, Inc. (TOI)."
+    },
+    {
+     "date": "2026-10-07",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "MH Built to Last LLC Company: MH Built to Last LLC\n                                                    \n                                                        \u00a0(New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$15,001 - $50,000",
+     "comment": "Underlying Asset of Hedge Holdings LLC"
+    },
+    {
+     "date": "2026-09-23",
+     "owner": "Spouse",
+     "ticker": "STLN",
+     "asset": "Starling Oncology, Inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "Underlying Asset of Hedge Holdings LLC. Name change \u2013 previously reported as Oncology Institute, Inc. (TOI)."
+    },
+    {
+     "date": "2026-09-22",
+     "owner": "Spouse",
+     "ticker": "STLN",
+     "asset": "Starling Oncology, Inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$15,001 - $50,000",
+     "comment": "Underlying Asset of Hedge Holdings LLC. Name change \u2013 previously reported as Oncology Institute, Inc. (TOI)."
+    },
+    {
+     "date": "2026-09-21",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "MH Built to Last LLC Company: MH Built to Last LLC\n                                                    \n                                                        \u00a0(New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "Underlying Asset of Hedge Holdings LLC"
+    },
+    {
+     "date": "2026-09-18",
+     "owner": "Spouse",
+     "ticker": "STLN",
+     "asset": "Starling Oncology, Inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$15,001 - $50,000",
+     "comment": "Underlying Asset of Hedge Holdings LLC. Name change \u2013 previously reported as Oncology Institute, Inc. (TOI)."
+    },
+    {
+     "date": "2026-10-07",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "MH Built to Last LLC Company: MH Built to Last LLC\n                                                    \n                                                        \u00a0(New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$50,001 - $100,000",
+     "comment": "Underlying Asset of Peter L. Malkin Family 9 LLC"
+    },
+    {
+     "date": "2026-09-22",
+     "owner": "Spouse",
+     "ticker": "STLN",
+     "asset": "Starling Oncology, Inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "Underlying Asset of Peter L. Malkin Family 9 LLC. Name change \u2013 previously reported as Oncology Institute, Inc. (TOI)."
+    },
+    {
+     "date": "2026-09-21",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "MH Built to Last LLC Company: MH Built to Last LLC\n                                                    \n                                                        \u00a0(New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "Underlying Asset of Peter L. Malkin Family 9 LLC"
+    },
+    {
+     "date": "2026-09-18",
+     "owner": "Spouse",
+     "ticker": "STLN",
+     "asset": "Starling Oncology, Inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "Underlying Asset of Peter L. Malkin Family 9 LLC. Name change \u2013 previously reported as Oncology Institute, Inc. (TOI)."
+    },
+    {
+     "date": "2026-10-07",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "MH Built to Last LLC Company: MH Built to Last LLC\n                                                    \n                                                        \u00a0(New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$100,001 - $250,000",
+     "comment": "Underlying Asset of Peter L. Malkin Family 2000 LLC"
+    },
+    {
+     "date": "2026-09-24",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "ZdP Investments Fund I, LP Company: ZdP Investments Fund I, LP\n                                                    \n                                                        \u00a0(Palo Alto, CA) Description: Private Equity Fund",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$15,001 - $50,000",
+     "comment": "Underlying Asset of Peter L. Malkin Family 2000 LLC"
+    },
+    {
+     "date": "2026-09-23",
+     "owner": "Spouse",
+     "ticker": "STLN",
+     "asset": "Starling Oncology, Inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "Underlying Asset of Peter L. Malkin Family 2000 LLC. Name change \u2013 previously reported as Oncology Institute, Inc. (TOI)."
+    },
+    {
+     "date": "2026-09-22",
+     "owner": "Spouse",
+     "ticker": "STLN",
+     "asset": "Starling Oncology, Inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$15,001 - $50,000",
+     "comment": "Underlying Asset of Peter L. Malkin Family 2000 LLC. Name change \u2013 previously reported as Oncology Institute, Inc. (TOI)."
+    },
+    {
+     "date": "2026-09-21",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "MH Built to Last LLC Company: MH Built to Last LLC\n                                                    \n                                                        \u00a0(New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "Underlying Asset of Peter L. Malkin Family 2000 LLC"
+    },
+    {
+     "date": "2026-09-21",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "GCP Captivate Secondary LP Company: Captivate Network\n                                                    \n                                                        \u00a0(New York, NY) Description: Media Company",
+     "asset_type": "Other",
+     "type": "Sale (Full)",
+     "amount": "$500,001 - $1,000,000",
+     "comment": "Underlying Asset of Peter L. Malkin Family 2000 LLC"
+    },
+    {
+     "date": "2026-09-18",
+     "owner": "Spouse",
+     "ticker": "STLN",
+     "asset": "Starling Oncology, Inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$15,001 - $50,000",
+     "comment": "Underlying Asset of Peter L. Malkin Family 2000 LLC.\nName change \u2013 previously reported as Oncology Institute, Inc. (TOI)."
+    },
+    {
+     "date": "2026-09-17",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "A-IC, a series of A-ST Opportunity Funds LLC Company: Intercom, Inc\n                                                    \n                                                        \u00a0(New York, NY) Description: Messaging Software",
+     "asset_type": "Other",
+     "type": "Sale (Full)",
+     "amount": "$50,001 - $100,000",
+     "comment": "Underlying Asset of Peter L. Malkin Family 2000 LLC"
+    },
+    {
+     "date": "2026-09-21",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "MH Built to Last LLC Company: MH Built to Last LLC\n                                                    \n                                                        \u00a0(New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "Underlying asset of 3M's Partners LLC, owned through Peter L. Malkin Family 9 LLC"
+    },
+    {
+     "date": "2026-10-07",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "MH Built to Last LLC Company: MH Built to Last LLC\n                                                    \n                                                        \u00a0(New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "Underlying asset of 3M's Partners LLC, owned through Peter L. Malkin Family 9 LLC"
+    },
+    {
+     "date": "2026-09-23",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "ZdP Investments Fund I, LP Company: ZdP Investments Fund I, LP\n                                                    \n                                                        \u00a0(Palo Alto, CA) Description: Private Equity Fund",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "Underlying asset of 3M's Partners LLC, owned through Peter L. Malkin Family 9 LLC"
+    },
+    {
+     "date": "2026-10-07",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "MH Built to Last LLC Company: MH Built to Last LLC\n                                                    \n                                                        \u00a0(New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "Underlying Asset of 3M's Partners LLC"
+    },
+    {
+     "date": "2026-09-23",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "ZdP Investments Fund I, LP Company: ZdP Investments Fund I, LP\n                                                    \n                                                        \u00a0(Palo Alto, CA) Description: Private Equity Fund",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "Underlying Asset of 3M's Partners LLC"
+    }
+   ]
+  },
+  {
+   "id": "6aa5ccb2-ff27-491a-9314-778b9ab37964",
+   "first": "Alan",
+   "last": "Armstrong",
+   "filed": "2026-10-22",
+   "url": "https://efdsearch.senate.gov/search/view/ptr/6aa5ccb2-ff27-491a-9314-778b9ab37964/",
+   "paper": false,
+   "transactions": [
+    {
+     "date": "2026-09-08",
+     "owner": "Joint",
+     "ticker": "WMB",
+     "asset": "Williams Companies, Inc. (The) Common Stock Option Type: Call Strike price: $80.00 Expires: 2026-12-18",
+     "asset_type": "Stock Option",
+     "type": "Sale (Full)",
+     "amount": "$250,001 - $500,000",
+     "comment": "--"
+    }
+   ]
+  },
   {
    "id": "94c5f7b9-cdbc-40b4-aeba-de920da58588",
    "first": "John",
