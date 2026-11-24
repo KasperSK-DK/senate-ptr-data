@@ -1,7 +1,347 @@
 {
- "generated_at": "2026-11-23T18:14:26.866147+00:00",
+ "generated_at": "2026-11-24T17:49:27.535569+00:00",
  "source": "efdsearch.senate.gov",
  "filings": [
+  {
+   "id": "9d3510cc-b11b-4777-a8a8-f0a58e886290",
+   "first": "Richard",
+   "last": "Blumenthal",
+   "filed": "2026-11-24",
+   "url": "https://efdsearch.senate.gov/search/view/ptr/9d3510cc-b11b-4777-a8a8-f0a58e886290/",
+   "paper": false,
+   "transactions": [
+    {
+     "date": "2026-11-06",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "MH Built to Last LLC Company: MH Built to Last LLC\n                                                    \n                                                        \u00a0(New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "Underlying Asset of Summa I LLC"
+    },
+    {
+     "date": "2026-11-06",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "MH Built to Last LLC Company: MH Built to Last LLC\n                                                    \n                                                        \u00a0(New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "Underlying Asset of LarryMae Partners LLC"
+    },
+    {
+     "date": "2026-11-06",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "MH Built to Last LLC Company: MH Built to Last LLC\n                                                    \n                                                        \u00a0(New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "Underlying Asset of Peter L. Malkin Family 2000 LLC"
+    },
+    {
+     "date": "2026-11-06",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "MH Built to Last LLC Company: MH Built to Last LLC\n                                                    \n                                                        \u00a0(New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "Underlying Asset of Peter L. Malkin Family 9 LLC"
+    },
+    {
+     "date": "2026-11-04",
+     "owner": "Spouse",
+     "ticker": "STLN",
+     "asset": "Starling Oncology, Inc. - Common Stock",
+     "asset_type": "Stock",
+     "type": "Sale (Partial)",
+     "amount": "$1,001 - $15,000",
+     "comment": "Underlying Asset of Peter L. Malkin Family 2000 LLC"
+    },
+    {
+     "date": "2026-10-28",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "MH Built to Last LLC Company: MH Built to Last LLC\n                                                    \n                                                        \u00a0(New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "Underlying Asset of Hedge Holdings LLC"
+    },
+    {
+     "date": "2026-10-28",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "MH Built to Last LLC Company: MH Built to Last LLC\n                                                    \n                                                        \u00a0(New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "Underlying Asset of LarryMae Partners LLC"
+    },
+    {
+     "date": "2026-10-28",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "MH Built to Last LLC Company: MH Built to Last LLC\n                                                    \n                                                        \u00a0(New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "Underlying Asset of Peter L. Malkin Family 2000 LLC"
+    },
+    {
+     "date": "2026-10-28",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "MH Built to Last LLC Company: MH Built to Last LLC\n                                                    \n                                                        \u00a0(New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "Underlying Asset of Peter L. Malkin Family 9 LLC"
+    },
+    {
+     "date": "2026-10-26",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "MH Four Winds LLC Company: MH Four Winds LLC\n                                                    \n                                                        \u00a0(New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$50,001 - $100,000",
+     "comment": "Underlying Asset of Hedge Holdings LLC"
+    },
+    {
+     "date": "2026-10-26",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "MH Four Winds LLC Company: MH Four Winds LLC\n                                                    \n                                                        \u00a0(New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$15,001 - $50,000",
+     "comment": "Underlying Asset of Summa I LLC"
+    },
+    {
+     "date": "2026-10-26",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "MH Four Winds LLC Company: MH Four Winds LLC\n                                                    \n                                                        \u00a0(New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$50,001 - $100,000",
+     "comment": "Underlying Asset of LarryMae Partners LLC"
+    },
+    {
+     "date": "2026-10-26",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "MH Four Winds LLC Company: MH Four Winds LLC\n                                                    \n                                                        \u00a0(New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$15,001 - $50,000",
+     "comment": "Underlying asset of Other One LLC"
+    },
+    {
+     "date": "2026-10-26",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "MH Four Winds LLC Company: MH Four Winds LLC\n                                                    \n                                                        \u00a0(New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$15,001 - $50,000",
+     "comment": "Underlying asset of 3M's Partners LLC"
+    },
+    {
+     "date": "2026-10-26",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "MH Four Winds LLC Company: MH Four Winds LLC\n                                                    \n                                                        \u00a0(New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$15,001 - $50,000",
+     "comment": "Underlying asset of 3M's Partners LLC, owned through Peter L. Malkin Family 9 LLC"
+    },
+    {
+     "date": "2026-10-26",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "MH Four Winds LLC Company: MH Four Winds LLC\n                                                    \n                                                        \u00a0(New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$250,001 - $500,000",
+     "comment": "Underlying Asset of Peter L. Malkin Family 2000 LLC"
+    },
+    {
+     "date": "2026-10-26",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "MH Four Winds LLC Company: MH Four Winds LLC\n                                                    \n                                                        \u00a0(New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$500,001 - $1,000,000",
+     "comment": "Underlying Asset of Peter L. Malkin Family 9 LLC"
+    },
+    {
+     "date": "2026-10-23",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "MH Four Winds LLC Company: MH Four Winds LLC\n                                                    \n                                                        \u00a0(New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$15,001 - $50,000",
+     "comment": "Underlying Asset of Hedge Holdings LLC"
+    },
+    {
+     "date": "2026-10-23",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "MH Four Winds LLC Company: MH Four Winds LLC\n                                                    \n                                                        \u00a0(New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$15,001 - $50,000",
+     "comment": "Underlying Asset of Summa I LLC"
+    },
+    {
+     "date": "2026-10-23",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "MH Four Winds LLC Company: MH Four Winds LLC\n                                                    \n                                                        \u00a0(New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$15,001 - $50,000",
+     "comment": "Underlying Asset of LarryMae Partners LLC"
+    },
+    {
+     "date": "2026-10-23",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "MH Four Winds LLC Company: MH Four Winds LLC\n                                                    \n                                                        \u00a0(New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "Underlying asset of Other One LLC"
+    },
+    {
+     "date": "2026-10-23",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "MH Four Winds LLC Company: MH Four Winds LLC\n                                                    \n                                                        \u00a0(New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "Underlying asset of 3M's Partners LLC"
+    },
+    {
+     "date": "2026-10-23",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "MH Four Winds LLC Company: MH Four Winds LLC\n                                                    \n                                                        \u00a0(New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$15,001 - $50,000",
+     "comment": "Underlying asset of 3M's Partners LLC, owned through Peter L. Malkin Family 9 LLC"
+    },
+    {
+     "date": "2026-10-23",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "MH Four Winds LLC Company: MH Four Winds LLC\n                                                    \n                                                        \u00a0(New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$100,001 - $250,000",
+     "comment": "Underlying Asset of Peter L. Malkin Family 2000 LLC"
+    },
+    {
+     "date": "2026-10-23",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "MH Four Winds LLC Company: MH Four Winds LLC\n                                                    \n                                                        \u00a0(New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$100,001 - $250,000",
+     "comment": "Underlying Asset of Peter L. Malkin Family 9 LLC"
+    },
+    {
+     "date": "2026-10-15",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "MH Four Winds LLC Company: MH Four Winds LLC\n                                                    \n                                                        \u00a0(New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$15,001 - $50,000",
+     "comment": "Underlying Asset of Hedge Holdings LLC"
+    },
+    {
+     "date": "2026-10-15",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "MH Four Winds LLC Company: MH Four Winds LLC\n                                                    \n                                                        \u00a0(New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$15,001 - $50,000",
+     "comment": "Underlying Asset of Summa I LLC"
+    },
+    {
+     "date": "2026-10-15",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "MH Four Winds LLC Company: MH Four Winds LLC\n                                                    \n                                                        \u00a0(New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$15,001 - $50,000",
+     "comment": "Underlying Asset of LarryMae Partners LLC"
+    },
+    {
+     "date": "2026-10-15",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "MH Four Winds LLC Company: MH Four Winds LLC\n                                                    \n                                                        \u00a0(New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "Underlying asset of Other One LLC"
+    },
+    {
+     "date": "2026-10-15",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "MH Four Winds LLC Company: MH Four Winds LLC\n                                                    \n                                                        \u00a0(New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "Underlying asset of 3M's Partners LLC"
+    },
+    {
+     "date": "2026-10-15",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "MH Four Winds LLC Company: MH Four Winds LLC\n                                                    \n                                                        \u00a0(New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$15,001 - $50,000",
+     "comment": "Underlying asset of 3M's Partners LLC, owned through Peter L. Malkin Family 9 LLC"
+    },
+    {
+     "date": "2026-10-15",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "MH Four Winds LLC Company: MH Four Winds LLC\n                                                    \n                                                        \u00a0(New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$100,001 - $250,000",
+     "comment": "Underlying Asset of Peter L. Malkin Family 2000 LLC"
+    },
+    {
+     "date": "2026-10-15",
+     "owner": "Spouse",
+     "ticker": "",
+     "asset": "MH Four Winds LLC Company: MH Four Winds LLC\n                                                    \n                                                        \u00a0(New York, NY) Description: Partnership",
+     "asset_type": "Other",
+     "type": "Purchase",
+     "amount": "$250,001 - $500,000",
+     "comment": "Underlying Asset of Peter L. Malkin Family 9 LLC"
+    }
+   ]
+  },
   {
    "id": "f0f7eba0-ca09-4b80-a97b-64b6dafb835e",
    "first": "Rafael E",
