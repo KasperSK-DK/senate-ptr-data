@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-11-25T17:16:01.637723+00:00",
+ "generated_at": "2026-11-26T16:57:05.860057+00:00",
  "source": "efdsearch.senate.gov",
  "filings": [
+  {
+   "id": "99dc7269-2f99-4c8b-8d0c-a3a91328af84",
+   "first": "Rand",
+   "last": "Paul",
+   "filed": "2026-11-25",
+   "url": "https://efdsearch.senate.gov/search/view/ptr/99dc7269-2f99-4c8b-8d0c-a3a91328af84/",
+   "paper": false,
+   "transactions": [
+    {
+     "date": "2026-11-05",
+     "owner": "Self",
+     "ticker": "NVDA",
+     "asset": "NVIDIA Corporation - Common Stock",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-11-07",
+     "owner": "Self",
+     "ticker": "NVDA",
+     "asset": "NVIDIA Corporation - Common Stock",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    },
+    {
+     "date": "2026-11-09",
+     "owner": "Self",
+     "ticker": "NVDA",
+     "asset": "NVIDIA Corporation - Common Stock",
+     "asset_type": "Stock",
+     "type": "Purchase",
+     "amount": "$1,001 - $15,000",
+     "comment": "--"
+    }
+   ]
+  },
   {
    "id": "9d3510cc-b11b-4777-a8a8-f0a58e886290",
    "first": "Richard",
